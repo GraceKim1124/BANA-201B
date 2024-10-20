@@ -1,0 +1,1019 @@
+popwght,state,nielsen,region,division,ownhome,mstatus,emply,age,age2,educ,income,d3_a,sex,sumo8
+0.7633,MA,A,North East,New England,Owned,Married,Retired,74, ,Graduate school or more,Refused,Very liberal,Female,Mushrooms
+0.7677,FL,B,South,South Atlantic,Owned,Married,Retired,71, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.8642,MD,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,57, ,Graduate school or more,"$200,000 to under $250,000",Moderate,Female,Onions
+0.3304,MD,A,South,South Atlantic,Rented,Widowed,Temporarily unemployed,69, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat liberal,Female,Onions
+0.2608,IN,C,North Central,East North Central,Rented,Divorced,Disabled/Handicapped,57, ,High school graduate,"Less than $15,000",Somewhat conservative,Female,Mushrooms
+0.4988,FL,B,South,South Atlantic,Rented,"Single, that is never married",Homemaker,28, ,High school graduate,"$15,000 but less than $25,000",Very liberal,Female,Don't know/no answer
+1.8425,GA,D,South,South Atlantic,Owned,Married,Full-time,37, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+0.3489,NY,B,North East,Mid Atlantic,Rented,"Single, that is never married",Retired,67, ,Refused,Refused,Somewhat liberal,Female,Don't know/no answer
+0.2767,CO,B,West,Mountain,Owned,Divorced,Retired,82, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Female,Mushrooms
+1.0598,MI,A,North Central,East North Central,Rented,Married,Disabled/Handicapped,56, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Mushrooms
+0.3955,CO,D,West,Mountain,Owned,Refused,Refused,Refused,50-64,Refused,Refused,Don't know,Male,Pepperoni
+0.9339,SD,D,North Central,West North Central,Owned,Married,Retired,Refused,65+,Less than high school graduate,"$100,000 to under $150,000",Moderate,Male,Sausage
+0.6772,PA,C,North East,Mid Atlantic,Owned,Married,Part-time,Refused,50-64,Graduate school or more,Refused,Somewhat conservative,Female,Sausage
+0.25,UT,B,West,Mountain,Owned,Divorced,Full-time,67, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.5333,IN,A,North Central,East North Central,Owned,Married,Full-time,72, ,High school graduate,Refused,Somewhat conservative,Female,Sausage
+0.8996,TX,A,South,West South Central,Owned,"Single, living with a partner",Full-time,46, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Sausage
+1.5865,AR,D,South,West South Central,Rented,"Single, that is never married",Full-time,38, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.8711,VT,C,North East,New England,Rented,Married,Retired,73, ,High school graduate,"$30,000 but less than $40,000",Very conservative,Male,Pepperoni
+0.4315,NJ,A,North East,Mid Atlantic,Owned,Divorced,Full-time,60, ,Graduate school or more,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+0.9625,WY,D,West,Mountain,Owned,Married,Homemaker,55, ,Graduated college,Refused,Somewhat conservative,Female,Pepperoni
+0.4366,IN,B,North Central,East North Central,Owned,Divorced,Retired,80, ,Technical school/other,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.9081,CO,D,West,Mountain,Owned,Married,Homemaker,58, ,High school graduate,Refused,Somewhat conservative,Female,Pepperoni
+0.2599,NY,B,North East,Mid Atlantic,Owned,"Single, that is never married",Retired,83, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.42,MI,D,North Central,East North Central,Owned,Married,Retired,79, ,Some college,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+0.7851,IN,D,North Central,East North Central,Rented,Married,Retired,90, ,Less than high school graduate,"$50,000 but less than $100,000 (Unspecified)",Moderate,Female,Pepperoni
+0.2916,CA,A,West,Pacific,Owned,Widowed,Retired,72, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Sausage
+1.6543,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,44, ,Graduated college,"$150,000 to under $200,000",Somewhat liberal,Male,Mushrooms
+1.2459,NM,C,West,Mountain,Owned,Married,Full-time,45, ,High school graduate,"$75,000 but less than $100,000",Somewhat liberal,Female,Pepperoni
+0.6418,NY,C,North East,Mid Atlantic,Owned,Married,Full-time,60, ,Graduated college,"$75,000 but less than $100,000",Somewhat liberal,Female,Pepperoni
+1.013,FL,B,South,South Atlantic,Owned,Married,Full-time,40, ,Graduate school or more,"$150,000 to under $200,000",Moderate,Male,Pepperoni
+0.6691,FL,B,South,South Atlantic,Owned,Married,Retired,88, ,Graduated college,"$30,000 but less than $40,000",Don't know,Male,Mushrooms
+0.8328,OH,D,North Central,East North Central,Owned,"Single, living with a partner",Full-time,45, ,Some college,"$30,000 but less than $40,000",Refused,Male,Pepperoni
+0.7932,NH,A,North East,New England,Owned,Married,Disabled/Handicapped,54, ,Some college,"$75,000 but less than $100,000",Don't know,Female,Onions
+0.6402,MO,A,North Central,West North Central,Owned,Married,Retired,68, ,Some college,Refused,Somewhat liberal,Female,Pepperoni
+0.8703,IN,B,North Central,East North Central,Owned,Married,Homemaker,46, ,Graduated college,"$75,000 but less than $100,000",Moderate,Female,Pepperoni
+0.9535,MN,A,North Central,West North Central,Owned,Married,Full-time,Refused,50-64,Graduated college,"$100,000 and over (Unspecified)",Moderate,Female,Pepperoni
+0.2832,FL,B,South,South Atlantic,Owned,Divorced,Part-time,65, ,Graduate school or more,"$100,000 to under $150,000",Somewhat liberal,Female,Sausage
+0.9658,WI,D,North Central,East North Central,Rented,Married,Part-time,36, ,Graduated college,"Less than $50,000 (Unspecified)",Very liberal,Male,Sausage
+0.8344,WI,B,North Central,East North Central,Owned,Married,Retired,70, ,Technical school/other,"$50,000 but less than $75,000",Very conservative,Male,Sausage
+1.2963,IL,A,North Central,East North Central,Owned,Married,Retired,60, ,Some college,"$100,000 to under $150,000",Moderate,Female,Sausage
+0.5787,IA,D,North Central,West North Central,Owned,Married,Full-time,54, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+0.8836,TX,A,South,West South Central,Owned,Married,Full-time,Refused,50-64,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Don't eat pizza
+0.6491,WI,B,North Central,East North Central,Owned,Married,Retired,80, ,Less than high school graduate,"$40,000 but less than $50,000",Somewhat liberal,Male,Sausage
+0.4765,AL,C,South,East South Central,Owned,Married,Retired,55, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Pepperoni
+0.25,IN,A,North Central,East North Central,Owned,Divorced,Retired,70, ,Graduated college,"$30,000 but less than $40,000",Moderate,Female,Mushrooms
+0.2772,LA,B,South,West South Central,Rented,Widowed,Disabled/Handicapped,67, ,Less than high school graduate,"Less than $15,000",Somewhat conservative,Female,Sausage
+1.5357,IN,A,North Central,East North Central,Owned,Married,Homemaker,39, ,Graduated college,"$75,000 but less than $100,000",Don't know,Female,Sausage
+0.8478,IA,B,North Central,West North Central,Owned,Married,Full-time,43, ,Graduate school or more,"$150,000 to under $200,000",Moderate,Male,Pepperoni
+0.3715,MO,B,North Central,West North Central,Rented,Divorced,Part-time,68, ,Graduated college,"Less than $15,000",Somewhat liberal,Female,Sausage
+0.6995,OK,B,South,West South Central,Owned,"Single, that is never married",Student,18, ,Less than high school graduate,Don't know,Very conservative,Female,Don't eat pizza
+0.641,AL,D,South,East South Central,Owned,Divorced,Full-time,56, ,High school graduate,"$25,000 but less than $30,000",Very conservative,Male,Pepperoni
+0.6565,WI,C,North Central,East North Central,Owned,Married,Retired,77, ,Graduate school or more,"$30,000 but less than $40,000",Somewhat conservative,Female,Pepperoni
+0.2903,IL,A,North Central,East North Central,Rented,Divorced,Full-time,28, ,Graduated college,"$25,000 but less than $30,000",Somewhat liberal,Male,Pepperoni
+0.5086,TN,B,South,East South Central,Owned,"Single, living with a partner",Full-time,54, ,High school graduate,"$75,000 but less than $100,000",Somewhat conservative,Male,Pepperoni
+2.2196,SD,D,North Central,West North Central,Rented,Married,Homemaker,30, ,Less than high school graduate,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+0.9535,MN,A,North Central,West North Central,Owned,Married,Part-time,Refused,50-64,Graduated college,Refused,Moderate,Female,Pepperoni
+0.9743,AR,D,South,West South Central,Owned,Married,Full-time,50, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Mushrooms
+0.6486,KS,C,North Central,West North Central,Owned,Married,Retired,82, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+1.5617,KS,D,North Central,West North Central,Owned,Married,Full-time,36, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Male,Pepperoni
+0.25,WA,C,West,Pacific,Owned,Widowed,Retired,88, ,Some college,Refused,Somewhat conservative,Female,Pepperoni
+0.7456,NE,C,North Central,West North Central,Rented,Married,Student,34, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Male,Onions
+0.7677,CA,D,West,Pacific,Owned,Married,Retired,67, ,Some college,"$40,000 but less than $50,000",Somewhat liberal,Female,Sausage
+0.27,IA,C,North Central,West North Central,Owned,Widowed,Retired,Refused,65+,Graduated college,Refused,Somewhat liberal,Female,Onions
+0.4099,WA,A,West,Pacific,Owned,Divorced,Part-time,78, ,Some college,"$30,000 but less than $40,000",Very liberal,Female,Pepperoni
+1.1928,TX,B,South,West South Central,Rented,Married,Part-time,55, ,Graduated college,"$50,000 but less than $100,000 (Unspecified)",Somewhat conservative,Female,Pepperoni
+0.4231,CA,A,West,Pacific,Owned,Married,Retired,Refused,65+,Some college,"$40,000 but less than $50,000",Very conservative,Male,Pepperoni
+0.9579,CA,A,West,Pacific,Rented,Married,Retired,71, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Male,Onions
+0.25,CA,A,West,Pacific,Owned,Widowed,Retired,78, ,Graduated college,Refused,Somewhat conservative,Female,Pepperoni
+1.0643,CA,B,West,Pacific,Owned,Married,Full-time,64, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Female,Sausage
+0.7837,OR,B,West,Pacific,Owned,Married,Retired,62, ,Some college,"$75,000 but less than $100,000",Moderate,Female,Pepperoni
+0.7378,CA,C,West,Pacific,Owned,Married,Retired,70, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Male,Pepperoni
+0.2615,WA,A,West,Pacific,Rented,Widowed,Retired,92, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat conservative,Female,Don't eat pizza
+0.278,WA,D,West,Pacific,Owned,"Single, that is never married",Disabled/Handicapped,29, ,Some college,"Less than $15,000",Moderate,Male,Pepperoni
+0.5174,MT,D,West,Mountain,Rented,Divorced,Retired,Refused,50-64,High school graduate,"Less than $15,000",Moderate,Male,Pepperoni
+0.6219,NE,D,North Central,West North Central,Owned,Married,Full-time,52, ,Graduated college,"$15,000 but less than $25,000",Somewhat conservative,Female,Sausage
+1.1433,CO,B,West,Mountain,Owned,Married,Part-time,60, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+1.2708,WA,B,West,Pacific,Owned,Married,Retired,59, ,High school graduate,Refused,Moderate,Female,Sausage
+0.8809,AK,D,West,Pacific,Owned,Married,Retired,70, ,High school graduate,"$30,000 but less than $40,000",Don't know,Male,Pepperoni
+0.4149,UT,C,West,Mountain,Owned,Married,Retired,86, ,Some college,"$40,000 but less than $50,000",Very conservative,Male,Pepperoni
+0.4028,AK,D,West,Pacific,Owned,Married,Full-time,69, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Don't know/no answer
+0.593,MT,C,West,Mountain,Owned,Separated,Retired,66, ,Some college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.4099,CA,A,West,Pacific,Rented,"Single, that is never married",Part-time,70, ,Some college,"Less than $15,000",Moderate,Female,Mushrooms
+0.509,AZ,B,West,Mountain,Rented,"Single, living with a partner",Disabled/Handicapped,56, ,Some college,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.5562,CA,A,West,Pacific,Owned,Married,Full-time,69, ,Some college,"$150,000 to under $200,000",Very liberal,Male,Sausage
+1.0988,CA,A,West,Pacific,Owned,Married,Full-time,62, ,Some college,"$75,000 but less than $100,000",Very conservative,Male,Sausage
+1.7208,CA,A,West,Pacific,Owned,"Single, living with a partner",Full-time,26, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Sausage
+0.499,CA,A,West,Pacific,Owned,"Single, living with a partner",Disabled/Handicapped,55, ,Some college,"Less than $15,000",Moderate,Male,Pepperoni
+0.379,OR,B,West,Pacific,Owned,Widowed,Retired,74, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+1.1775,WA,C,West,Pacific,Owned,Married,Full-time,62, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.403,CA,A,West,Pacific,Owned,Widowed,Part-time,67, ,Some college,"$15,000 but less than $25,000",Moderate,Female,Sausage
+1.8415,CA,B,West,Pacific,Owned,Married,Full-time,42, ,Graduated college,"$150,000 to under $200,000",Somewhat liberal,Female,Mushrooms
+0.3161,IN,D,North Central,East North Central,Owned,Widowed,Retired,77, ,High school graduate,"$25,000 but less than $30,000",Don't know,Female,Pepperoni
+0.8218,NY,B,North East,Mid Atlantic,Owned,"Single, that is never married",Full-time,61, ,Graduate school or more,"$40,000 but less than $50,000",Don't know,Male,Sausage
+0.463,OH,B,North Central,East North Central,Rented,"Single, that is never married",Retired,64, ,Some college,"$15,000 but less than $25,000",Moderate,Male,Sausage
+0.5162,FL,C,South,South Atlantic,Owned,Divorced,Part-time,63, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Mushrooms
+0.2624,OH,B,North Central,East North Central,Rented,Divorced,Disabled/Handicapped,67, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Mushrooms
+0.6861,MA,A,North East,New England,Rented,Married,Full-time,50, ,Graduated college,"$100,000 to under $150,000",Somewhat liberal,Female,Onions
+0.3444,PA,A,North East,Mid Atlantic,Owned,Divorced,Retired,66, ,Technical school/other,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+1.0328,ME,C,North East,New England,Owned,"Single, living with a partner",Full-time,59, ,High school graduate,"$75,000 but less than $100,000",Somewhat conservative,Male,Pepperoni
+1.0201,GA,C,South,South Atlantic,Owned,Married,Homemaker,41, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Female,Mushrooms
+0.4551,FL,B,South,South Atlantic,Don't know,Refused,Retired,Refused,Refused,Graduated college,Refused,Somewhat conservative,Male,Don't eat pizza
+0.25,MI,A,North Central,East North Central,Rented,Widowed,Retired,85, ,High school graduate,"$50,000 but less than $100,000 (Unspecified)",Somewhat liberal,Female,Pepperoni
+0.4146,NC,D,South,South Atlantic,Owned,"Single, that is never married",Full-time,19, ,Some college,"$25,000 but less than $30,000",Don't know,Male,Pepperoni
+0.6786,VA,D,South,South Atlantic,Owned,Married,Full-time,63, ,Graduate school or more,"$100,000 to under $150,000",Somewhat conservative,Female,Sausage
+1.4909,PA,B,North East,Mid Atlantic,Owned,Married,Full-time,52, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Male,Sausage
+0.5195,OH,B,North Central,East North Central,Rented,Divorced,Retired,60, ,High school graduate,"Less than $15,000",Refused,Female,Sausage
+1.6614,OK,D,South,West South Central,Owned,Married,Part-time,60, ,Less than high school graduate,Don't know,Moderate,Male,Onions
+0.25,MA,A,North East,New England,Owned,Divorced,Retired,92, ,High school graduate,"$15,000 but less than $25,000",Don't know,Female,Pepperoni
+1.1569,SC,B,South,South Atlantic,Owned,Married,Full-time,56, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.4162,IN,B,North Central,East North Central,Rented,"Single, living with a partner",Disabled/Handicapped,49, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.3239,NC,D,South,South Atlantic,Owned,"Single, that is never married",Part-time,66, ,Graduate school or more,"$30,000 but less than $40,000",Very liberal,Female,Don't eat pizza
+2.4591,MA,A,North East,New England,Rented,Married,Part-time,40, ,High school graduate,"$15,000 but less than $25,000",Don't know,Female,Sausage
+0.4838,SC,C,South,South Atlantic,Owned,Married,Full-time,59, ,Graduate school or more,Refused,Somewhat liberal,Female,Don't know/no answer
+0.4628,VA,A,South,South Atlantic,Rented,Married,Retired,74, ,High school graduate,"Less than $15,000",Refused,Female,Sausage
+1.1142,GA,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,30, ,High school graduate,"$75,000 but less than $100,000",Very conservative,Male,Mushrooms
+0.7371,NY,C,North East,Mid Atlantic,Owned,Married,Retired,69, ,High school graduate,"$40,000 but less than $50,000",Moderate,Female,Mushrooms
+0.3505,OH,C,North Central,East North Central,Owned,Married,Retired,Refused,65+,High school graduate,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+0.9013,GA,B,South,South Atlantic,Owned,Married,Other not employed,70, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Male,Onions
+0.6578,MA,A,North East,New England,Rented,"Single, living with a partner",Temporarily unemployed,27, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Onions
+0.3079,TN,B,South,East South Central,Owned,Widowed,Retired,68, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.25,PA,A,North East,Mid Atlantic,Don't know,Widowed,Retired,74, ,Some college,"$15,000 but less than $25,000",Very conservative,Female,Mushrooms
+0.7394,FL,B,South,South Atlantic,Owned,Married,Full-time,51, ,Some college,"$75,000 but less than $100,000",Somewhat conservative,Male,Sausage
+0.6744,FL,B,South,South Atlantic,Owned,Married,Retired,55, ,Graduated college,"$40,000 but less than $50,000",Moderate,Female,Mushrooms
+0.6974,RI,B,North East,New England,Rented,Divorced,Full-time,29, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.7706,GA,A,South,South Atlantic,Owned,Married,Retired,80, ,High school graduate,Refused,Moderate,Female,Pepperoni
+0.3424,PA,A,North East,Mid Atlantic,Owned,"Single, living with a partner",Full-time,64, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Male,Mushrooms
+1.5724,CT,B,North East,New England,Owned,Married,Part-time,48, ,Graduate school or more,"$100,000 to under $150,000",Somewhat liberal,Female,Mushrooms
+0.3395,FL,B,South,South Atlantic,Owned,Divorced,Retired,64, ,High school graduate,Refused,Moderate,Female,Mushrooms
+0.4456,NY,A,North East,Mid Atlantic,Owned,Married,Part-time,71, ,Graduated college,"$100,000 to under $150,000",Moderate,Male,Sausage
+2.1813,NY,A,North East,Mid Atlantic,Owned,Widowed,Retired,86, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Don't eat pizza
+1.2491,VA,A,South,South Atlantic,Owned,Married,Full-time,30, ,High school graduate,"$100,000 to under $150,000",Somewhat liberal,Male,Mushrooms
+0.9955,NJ,A,North East,Mid Atlantic,Owned,"Single, living with a partner",Full-time,48, ,Graduate school or more,"$250,000 or more",Somewhat liberal,Male,Pepperoni
+1.084,PA,B,North East,Mid Atlantic,Owned,Married,Full-time,51, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Female,Mushrooms
+0.7067,NY,C,North East,Mid Atlantic,Rented,Married,Retired,83, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Mushrooms
+1.1209,WV,C,South,South Atlantic,Rented,Divorced,Disabled/Handicapped,50, ,High school graduate,"Less than $15,000",Somewhat liberal,Male,Pepperoni
+0.9817,PA,B,North East,Mid Atlantic,Owned,Married,Retired,77, ,Less than high school graduate,"Less than $15,000",Refused,Male,Don't know/no answer
+1.6032,RI,B,North East,New England,Owned,Married,Full-time,30, ,Graduate school or more,"$40,000 but less than $50,000",Moderate,Female,Mushrooms
+0.4601,TN,B,South,East South Central,Rented,Married,Retired,78, ,Less than high school graduate,"Less than $50,000 (Unspecified)",Moderate,Male,Pepperoni
+1.3715,PA,C,North East,Mid Atlantic,Owned,Married,Part-time,29, ,Graduated college,"$40,000 but less than $50,000",Somewhat conservative,Female,Mushrooms
+1.0553,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,Refused,Refused,High school graduate,Refused,Very conservative,Male,Mushrooms
+0.282,FL,B,South,South Atlantic,Owned,Widowed,Retired,87, ,Less than high school graduate,"Less than $15,000",Don't know,Female,Mushrooms
+0.7119,NC,C,South,South Atlantic,Owned,Married,Full-time,73, ,Graduate school or more,"$250,000 or more",Moderate,Female,Sausage
+0.8156,NC,C,South,South Atlantic,Owned,Married,Full-time,45, ,Graduate school or more,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.2928,FL,A,South,South Atlantic,Owned,Widowed,Retired,92, ,Graduated college,"Less than $15,000",Moderate,Female,Mushrooms
+0.3828,VA,D,South,South Atlantic,Owned,"Single, that is never married",Retired,68, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.7386,TX,A,South,West South Central,Owned,Married,Retired,70, ,High school graduate,"$100,000 to under $150,000",Somewhat conservative,Female,Pepperoni
+0.4423,IL,A,North Central,East North Central,Owned,Widowed,Homemaker,85, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Sausage
+0.9962,WI,B,North Central,East North Central,Owned,Married,Part-time,59, ,Some college,Refused,Somewhat conservative,Female,Mushrooms
+0.6868,IN,A,North Central,East North Central,Rented,Married,Full-time,32, ,Graduated college,"$50,000 but less than $75,000",Somewhat conservative,Male,Pepperoni
+0.25,AR,C,South,West South Central,Owned,Widowed,Retired,69, ,Some college,"Less than $15,000",Don't know,Female,Pepperoni
+0.25,AR,B,South,West South Central,Owned,Divorced,Retired,79, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Female,Pepperoni
+0.25,IL,A,North Central,East North Central,Owned,Widowed,Part-time,65, ,Some college,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.5928,MO,B,North Central,West North Central,Rented,"Single, that is never married",Full-time,60, ,High school graduate,"$30,000 but less than $40,000",Very liberal,Male,Pepperoni
+0.9671,CA,A,West,Pacific,Owned,Married,Temporarily unemployed,58, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Mushrooms
+0.4059,MN,A,North Central,West North Central,Owned,Widowed,Retired,80, ,Graduated college,"$40,000 but less than $50,000",Moderate,Female,Sausage
+0.4343,WI,D,North Central,East North Central,Rented,Separated,Disabled/Handicapped,28, ,High school graduate,"Less than $15,000",Very conservative,Male,Don't know/no answer
+0.25,WI,B,North Central,East North Central,Owned,Widowed,Retired,90, ,Graduated college,Refused,Somewhat conservative,Female,Don't know/no answer
+0.6811,KS,D,North Central,West North Central,Owned,Married,Other not employed,86, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Female,Pepperoni
+0.4017,MN,A,North Central,West North Central,Rented,"Single, that is never married",Retired,64, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Male,Pepperoni
+0.6615,IA,C,North Central,West North Central,Owned,Married,Retired,84, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+1.0391,IA,B,North Central,West North Central,Owned,Married,Retired,62, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.5911,MN,D,North Central,West North Central,Owned,"Single, that is never married",Full-time,56, ,High school graduate,"$25,000 but less than $30,000",Somewhat conservative,Male,Pepperoni
+0.25,LA,C,South,West South Central,Rented,Widowed,Retired,69, ,Graduated college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.7291,SD,D,North Central,West North Central,Owned,Married,Retired,65, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Male,Sausage
+0.4615,MS,B,South,East South Central,Rented,Married,Retired,70, ,High school graduate,Refused,Don't know,Female,Pepperoni
+1.408,TN,D,South,East South Central,Owned,Married,Retired,64, ,High school graduate,"$50,000 but less than $75,000",Somewhat liberal,Female,Pepperoni
+1.4323,IL,A,North Central,East North Central,Rented,"Single, living with a partner",Full-time,32, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.6724,CA,A,West,Pacific,Rented,Married,Retired,70, ,Less than high school graduate,"$30,000 but less than $40,000",Very conservative,Female,Mushrooms
+2.1953,AR,B,South,West South Central,Rented,"Single, that is never married",Part-time,34, ,Less than high school graduate,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.438,TX,B,South,West South Central,Owned,Divorced,Full-time,54, ,Graduated college,"$50,000 but less than $75,000",Somewhat conservative,Female,Pepperoni
+0.5235,ID,D,West,Mountain,Owned,Widowed,Retired,68, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Female,Mushrooms
+2.4867,UT,C,West,Mountain,Owned,Married,Full-time,41, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Female,Mushrooms
+0.9819,CA,A,West,Pacific,Rented,"Single, that is never married",Full-time,62, ,Some college,"$50,000 but less than $75,000",Moderate,Male,Sausage
+1.6355,CA,B,West,Pacific,Rented,"Single, living with a partner",Homemaker,33, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat liberal,Female,Pepperoni
+1.9099,OR,B,West,Pacific,Owned,Married,Full-time,40, ,Some college,"$40,000 but less than $50,000",Moderate,Male,Pepperoni
+1.2544,CA,B,West,Pacific,Owned,Married,Homemaker,50, ,Some college,"$50,000 but less than $75,000",Very liberal,Female,Sausage
+1.0819,CA,A,West,Pacific,Rented,Separated,Part-time,36, ,Some college,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+0.5439,CA,D,West,Pacific,Owned,"Single, living with a partner",Retired,57, ,Some college,"$50,000 but less than $75,000",Very conservative,Male,Sausage
+0.8222,CA,B,West,Pacific,Owned,Married,Retired,72, ,Some college,"$50,000 but less than $100,000 (Unspecified)",Don't know,Female,Onions
+1.9781,CA,A,West,Pacific,Owned,Married,Full-time,30, ,Graduated college,"$200,000 to under $250,000",Moderate,Female,Pepperoni
+0.2977,CA,B,West,Pacific,Rented,Divorced,Retired,67, ,Some college,"Less than $15,000",Somewhat liberal,Female,Mushrooms
+0.5947,UT,B,West,Mountain,Owned,Married,Temporarily unemployed,64, ,Some college,"$40,000 but less than $50,000",Somewhat liberal,Female,Pepperoni
+0.3901,PA,B,North East,Mid Atlantic,Owned,Widowed,Retired,90, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Don't eat pizza
+0.5704,MI,C,North Central,East North Central,Owned,Married,Retired,71, ,Graduated college,Refused,Very conservative,Female,Mushrooms
+0.25,MI,B,North Central,East North Central,Rented,Widowed,Part-time,85, ,Some college,"$15,000 but less than $25,000",Very conservative,Female,Mushrooms
+1.2654,PA,A,North East,Mid Atlantic,Owned,Married,Full-time,54, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Male,Mushrooms
+0.9606,PA,A,North East,Mid Atlantic,Owned,Married,Retired,61, ,Graduated college,"$50,000 but less than $100,000 (Unspecified)",Somewhat conservative,Female,Mushrooms
+1.885,AZ,A,West,Mountain,Rented,Married,Full-time,36, ,High school graduate,"$25,000 but less than $30,000",Moderate,Male,Pepperoni
+1.6032,NY,A,North East,Mid Atlantic,Owned,Married,Homemaker,35, ,Graduate school or more,"$150,000 to under $200,000",Moderate,Female,Pepperoni
+0.25,KY,D,South,East South Central,Rented,Divorced,Retired,66, ,Graduated college,"Less than $15,000",Somewhat conservative,Male,Don't eat pizza
+0.5904,CT,B,North East,New England,Owned,Divorced,Disabled/Handicapped,54, ,Less than high school graduate,"$40,000 but less than $50,000",Very conservative,Male,Don't eat pizza
+0.5661,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Part-time,20, ,Some college,"$30,000 but less than $40,000",Very liberal,Male,Sausage
+0.2888,OH,D,North Central,East North Central,Owned,Divorced,Retired,67, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.9138,PA,A,North East,Mid Atlantic,Owned,Married,Full-time,36, ,Graduated college,"$100,000 to under $150,000",Very liberal,Male,Sausage
+0.5552,NC,C,South,South Atlantic,Don't know,Separated,Full-time,44, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.744,OH,B,North Central,East North Central,Owned,Divorced,Full-time,34, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Sausage
+0.7948,FL,B,South,South Atlantic,Owned,Married,Part-time,60, ,Some college,"$50,000 but less than $75,000",Don't know,Female,Onions
+0.3774,OH,A,North Central,East North Central,Rented,Refused,Disabled/Handicapped,59, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Male,Sausage
+0.9437,NC,C,South,South Atlantic,Owned,Married,Full-time,45, ,Graduated college,"$150,000 to under $200,000",Somewhat conservative,Female,Pepperoni
+0.6949,VA,C,South,South Atlantic,Owned,Married,Full-time,50, ,Some college,"$150,000 to under $200,000",Somewhat conservative,Female,Pepperoni
+1.1901,WV,D,South,South Atlantic,Owned,"Single, that is never married",Temporarily unemployed,36, ,Some college,"Less than $15,000",Don't know,Female,Pepperoni
+0.3224,MI,A,North Central,East North Central,Rented,Widowed,Retired,81, ,High school graduate,"$25,000 but less than $30,000",Somewhat liberal,Female,Mushrooms
+0.2673,NJ,A,North East,Mid Atlantic,Rented,"Single, that is never married",Retired,75, ,Graduate school or more,"Less than $15,000",Somewhat liberal,Male,Pepperoni
+0.8197,PA,C,North East,Mid Atlantic,Rented,Married,Full-time,26, ,Some college,"$50,000 but less than $75,000",Somewhat liberal,Female,Pepperoni
+0.4378,FL,B,South,South Atlantic,Owned,Married,Retired,73, ,Graduated college,Refused,Refused,Male,Sausage
+0.6484,PA,A,North East,Mid Atlantic,Owned,Married,Disabled/Handicapped,48, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.8985,IN,D,North Central,East North Central,Owned,Married,Part-time,57, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+0.6297,NY,A,North East,Mid Atlantic,Owned,Married,Retired,73, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+0.4503,FL,A,South,South Atlantic,Owned,Married,Full-time,20, ,Graduated college,"$150,000 to under $200,000",Somewhat conservative,Male,Pepperoni
+0.516,NC,C,South,South Atlantic,Owned,Married,Retired,83, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+0.9204,NC,B,South,South Atlantic,Rented,"Single, that is never married",Part-time,21, ,Less than high school graduate,"$15,000 but less than $25,000",Don't know,Male,Pepperoni
+0.8832,GA,A,South,South Atlantic,Owned,Married,Full-time,38, ,Graduate school or more,Refused,Moderate,Male,Sausage
+0.5383,KY,B,South,East South Central,Owned,Married,Full-time,Refused,65+,High school graduate,"$40,000 but less than $50,000",Moderate,Female,Sausage
+3.7828,KY,D,South,East South Central,Owned,Married,Other not employed,20, ,Less than high school graduate,"Less than $15,000",Somewhat liberal,Female,Pepperoni
+0.5188,FL,A,South,South Atlantic,Rented,Widowed,Retired,88, ,Some college,Refused,Moderate,Female,Mushrooms
+0.25,NY,B,North East,Mid Atlantic,Rented,"Single, that is never married",Retired,66, ,High school graduate,"$15,000 but less than $25,000",Very liberal,Female,Pepperoni
+1.0628,NY,C,North East,Mid Atlantic,Owned,Married,Full-time,52, ,Graduate school or more,Refused,Moderate,Female,Onions
+0.8462,NC,D,South,South Atlantic,Refused,Married,Retired,36, ,High school graduate,"$100,000 and over (Unspecified)",Very conservative,Male,Pepperoni
+0.8377,SC,B,South,South Atlantic,Owned,Married,Retired,66, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.467,PA,B,North East,Mid Atlantic,Rented,Divorced,Disabled/Handicapped,45, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.8551,SC,B,South,South Atlantic,Owned,"Single, that is never married",Full-time,38, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.6437,IL,D,North Central,East North Central,Owned,Married,Retired,77, ,Graduate school or more,Refused,Moderate,Female,Sausage
+1.2321,NY,A,North East,Mid Atlantic,Rented,Married,Full-time,48, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Onions
+1.1122,FL,C,South,South Atlantic,Rented,Married,Homemaker,59, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Mushrooms
+0.2561,SC,D,South,South Atlantic,Rented,Widowed,Retired,86, ,Refused,"Less than $15,000",Don't know,Male,Pepperoni
+1.18,VA,A,South,South Atlantic,Owned,Married,Full-time,47, ,Graduated college,"$150,000 to under $200,000",Somewhat liberal,Male,Pepperoni
+0.7386,MD,A,South,South Atlantic,Owned,Married,Retired,69, ,High school graduate,"$75,000 but less than $100,000",Moderate,Female,Don't know/no answer
+0.5837,OH,C,North Central,East North Central,Owned,Divorced,Homemaker,48, ,Less than high school graduate,"Less than $15,000",Don't know,Female,Mushrooms
+0.3153,CA,B,West,Pacific,Owned,Widowed,Retired,63, ,High school graduate,"Less than $15,000",Very conservative,Female,Pepperoni
+0.25,CT,B,North East,New England,Owned,Widowed,Retired,93, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Mushrooms
+0.6341,MA,A,North East,New England,Owned,"Single, living with a partner",Full-time,29, ,Graduate school or more,"$75,000 but less than $100,000",Moderate,Male,Don't know/no answer
+0.7386,TN,D,South,East South Central,Owned,Married,Retired,69, ,High school graduate,"$40,000 but less than $50,000",Very conservative,Female,Pepperoni
+0.822,TN,C,South,East South Central,Rented,Married,Disabled/Handicapped,54, ,Less than high school graduate,Refused,Somewhat liberal,Male,Sausage
+0.25,CT,A,North East,New England,Owned,"Single, that is never married",Retired,80, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+1.3813,OK,D,South,West South Central,Owned,Married,Disabled/Handicapped,48, ,High school graduate,"$25,000 but less than $30,000",Very conservative,Male,Mushrooms
+0.3496,TX,A,South,West South Central,Owned,Widowed,Retired,87, ,High school graduate,"$15,000 but less than $25,000",Somewhat liberal,Female,Pepperoni
+0.25,MN,A,North Central,West North Central,Owned,Widowed,Retired,78, ,Graduate school or more,Refused,Somewhat conservative,Male,Sausage
+0.7989,MN,A,North Central,West North Central,Owned,Married,Full-time,66, ,Graduate school or more,"$40,000 but less than $50,000",Somewhat liberal,Male,Onions
+0.2562,AL,C,South,East South Central,Rented,"Single, that is never married",Homemaker,48, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.595,OK,B,South,West South Central,Rented,"Single, that is never married",Student,42, ,Some college,"Less than $15,000",Somewhat conservative,Female,Mushrooms
+1.0016,MO,A,North Central,West North Central,Owned,Married,Full-time,Refused,50-64,Graduate school or more,"$100,000 to under $150,000",Somewhat conservative,Female,Don't know/no answer
+1.1122,TX,C,South,West South Central,Owned,Married,Part-time,59, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.5229,AR,D,South,West South Central,Owned,Widowed,Full-time,55, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Female,Don't eat pizza
+0.9437,AL,D,South,East South Central,Owned,Married,Full-time,Refused,50-64,Graduated college,"$50,000 but less than $75,000",Very conservative,Female,Sausage
+0.2775,IA,C,North Central,West North Central,Owned,Married,Retired,71, ,Some college,"$40,000 but less than $50,000",Very liberal,Male,Sausage
+0.3442,AL,C,South,East South Central,Owned,Married,Retired,75, ,Some college,"$75,000 but less than $100,000",Very conservative,Male,Don't eat pizza
+0.5633,LA,B,South,West South Central,Owned,"Single, that is never married",Temporarily unemployed,62, ,High school graduate,"Less than $15,000",Moderate,Female,Sausage
+0.516,TX,B,South,West South Central,Owned,Married,Retired,84, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Mushrooms
+0.7544,WI,A,North Central,East North Central,Owned,Married,Part-time,37, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.25,KS,D,North Central,West North Central,Rented,Widowed,Retired,81, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.2718,AL,C,South,East South Central,Rented,Widowed,Retired,77, ,Less than high school graduate,"Less than $15,000",Very conservative,Female,Pepperoni
+2.1703,WA,A,West,Pacific,Rented,Married,Temporarily unemployed,43, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.5679,CA,A,West,Pacific,Rented,Divorced,Full-time,48, ,Some college,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+2.1279,WA,B,West,Pacific,Rented,Married,Homemaker,32, ,Some college,"$25,000 but less than $30,000",Somewhat conservative,Female,Pepperoni
+0.9314,NV,B,West,Mountain,Rented,Married,Retired,70, ,Some college,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.8489,CA,A,West,Pacific,Owned,Married,Retired,75, ,Graduated college,"$50,000 but less than $75,000",Somewhat conservative,Male,Mushrooms
+0.5227,CA,B,West,Pacific,Owned,Widowed,Retired,82, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+1.2464,CA,B,West,Pacific,Owned,Married,Homemaker,55, ,Technical school/other,"$15,000 but less than $25,000",Don't know,Female,Don't know/no answer
+0.3495,CA,C,West,Pacific,Owned,Widowed,Retired,66, ,Less than high school graduate,"Less than $15,000",Very liberal,Female,Mushrooms
+1.5076,AK,C,West,Pacific,Owned,Married,Full-time,55, ,Technical school/other,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+0.389,CA,A,West,Pacific,Owned,Divorced,Full-time,62, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Male,Pepperoni
+0.8703,OH,B,North Central,East North Central,Owned,Married,Full-time,50, ,Graduated college,"$100,000 to under $150,000",Somewhat liberal,Female,Sausage
+1.3585,NY,A,North East,Mid Atlantic,Owned,Married,Full-time,58, ,Graduated college,"$30,000 but less than $40,000",Moderate,Male,Don't know/no answer
+0.7518,PA,B,North East,Mid Atlantic,Rented,Married,Retired,67, ,High school graduate,"$30,000 but less than $40,000",Very conservative,Female,Mushrooms
+0.2928,NC,B,South,South Atlantic,Owned,"Single, that is never married",Retired,74, ,Graduated college,"$75,000 but less than $100,000",Moderate,Female,Pepperoni
+0.3904,OH,B,North Central,East North Central,Owned,Divorced,Retired,Refused,65+,High school graduate,Refused,Refused,Female,Sausage
+1.3907,MD,A,South,South Atlantic,Owned,Married,Retired,64, ,Some college,"$100,000 to under $150,000",Moderate,Male,Mushrooms
+0.8516,PA,B,North East,Mid Atlantic,Owned,Married,Retired,75, ,High school graduate,"$15,000 but less than $25,000",Don't know,Male,Don't eat pizza
+2.4022,NY,A,North East,Mid Atlantic,Owned,Married,Homemaker,36, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+1.622,NY,A,North East,Mid Atlantic,Owned,Married,Full-time,47, ,High school graduate,"$40,000 but less than $50,000",Very liberal,Male,Pepperoni
+0.25,VT,D,North East,New England,Rented,Widowed,Retired,71, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+1.8425,VA,A,South,South Atlantic,Owned,Married,Part-time,33, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat liberal,Female,Mushrooms
+0.9491,NC,C,South,South Atlantic,Owned,Married,Part-time,38, ,Some college,"$50,000 but less than $75,000",Very conservative,Female,Mushrooms
+0.556,VA,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,61, ,Some college,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+0.8663,TX,B,South,West South Central,Owned,Married,Part-time,Refused,65+,Graduate school or more,"$30,000 but less than $40,000",Somewhat liberal,Male,Sausage
+0.3295,MD,A,South,South Atlantic,Owned,Divorced,Full-time,55, ,Some college,"$40,000 but less than $50,000",Very conservative,Female,Pepperoni
+1.084,NY,B,North East,Mid Atlantic,Owned,Married,Retired,61, ,Graduate school or more,"$100,000 to under $150,000",Very liberal,Female,Pepperoni
+0.7033,AL,D,South,East South Central,Owned,Married,Retired,73, ,High school graduate,"Less than $50,000 (Unspecified)",Somewhat conservative,Female,Don't know/no answer
+1.5617,MN,A,North Central,West North Central,Owned,Married,Full-time,Refused,30-49,Some college,"$100,000 and over (Unspecified)",Somewhat conservative,Male,Pepperoni
+0.7276,PA,D,North East,Mid Atlantic,Owned,Married,Retired,82, ,Some college,Don't know,Somewhat conservative,Female,Don't know/no answer
+0.3897,TX,B,South,West South Central,Owned,Married,Retired,85, ,Less than high school graduate,Don't know,Very conservative,Male,Onions
+0.6239,NH,C,North East,New England,Owned,"Single, living with a partner",Temporarily unemployed,51, ,Graduated college,"$75,000 but less than $100,000",Moderate,Female,Mushrooms
+0.5245,NJ,A,North East,Mid Atlantic,Owned,Divorced,Retired,70, ,High school graduate,"$40,000 but less than $50,000",Somewhat conservative,Female,Pepperoni
+0.7292,VA,B,South,South Atlantic,Rented,Divorced,Retired,65, ,Less than high school graduate,Refused,Moderate,Female,Onions
+0.25,TX,C,South,West South Central,Owned,Widowed,Retired,74, ,Some college,"Less than $15,000",Moderate,Female,Pepperoni
+0.25,TX,C,South,West South Central,Owned,Widowed,Retired,Refused,65+,Technical school/other,"$40,000 but less than $50,000",Somewhat conservative,Female,Pepperoni
+0.6916,GA,A,South,South Atlantic,Owned,Married,Full-time,58, ,Graduate school or more,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+0.7102,FL,D,South,South Atlantic,Owned,Divorced,Full-time,48, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Female,Pepperoni
+0.4931,OH,B,North Central,East North Central,Owned,Married,Full-time,51, ,Some college,"$100,000 and over (Unspecified)",Somewhat conservative,Male,Mushrooms
+1.0391,OH,D,North Central,East North Central,Owned,Married,Retired,63, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Female,Onions
+0.379,CO,D,West,Mountain,Owned,Widowed,Retired,Refused,65+,High school graduate,"$30,000 but less than $40,000",Very conservative,Female,Sausage
+0.2759,PA,C,North East,Mid Atlantic,Rented,Widowed,Disabled/Handicapped,81, ,Less than high school graduate,"$15,000 but less than $25,000",Don't know,Female,Pepperoni
+0.5051,ID,D,West,Mountain,Owned,"Single, living with a partner",Part-time,68, ,High school graduate,"Less than $15,000",Very liberal,Female,Mushrooms
+1.2989,FL,B,South,South Atlantic,Owned,Married,Retired,59, ,Less than high school graduate,"$25,000 but less than $30,000",Don't know,Female,Pepperoni
+0.7396,MN,D,North Central,West North Central,Refused,Married,Retired,88, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+0.2579,NJ,A,North East,Mid Atlantic,Rented,Widowed,Part-time,75, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.9216,OH,A,North Central,East North Central,Owned,Married,Retired,86, ,Graduate school or more,"$30,000 but less than $40,000",Somewhat conservative,Male,Onions
+0.9771,SC,D,South,South Atlantic,Owned,Married,Retired,58, ,Technical school/other,"$50,000 but less than $75,000",Very conservative,Male,Sausage
+0.2901,MN,C,North Central,West North Central,Owned,Widowed,Homemaker,67, ,Graduated college,"$25,000 but less than $30,000",Very conservative,Female,Sausage
+1.7666,FL,D,South,South Atlantic,Owned,Married,Full-time,37, ,Some college,"$200,000 to under $250,000",Somewhat conservative,Female,Pepperoni
+0.3458,VA,B,South,South Atlantic,Owned,"Single, that is never married",Full-time,47, ,Graduate school or more,"$75,000 but less than $100,000",Very liberal,Female,Pepperoni
+0.8537,VA,A,South,South Atlantic,Owned,Married,Full-time,30, ,Graduate school or more,"$100,000 to under $150,000",Very liberal,Female,Mushrooms
+0.4707,MD,A,South,South Atlantic,Owned,Married,Homemaker,81, ,High school graduate,"$150,000 to under $200,000",Somewhat conservative,Female,Pepperoni
+0.8423,FL,B,South,South Atlantic,Owned,Married,Retired,73, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Male,Pepperoni
+3.4356,VA,B,South,South Atlantic,Rented,"Single, that is never married",Temporarily unemployed,Refused,50-64,High school graduate,"Less than $50,000 (Unspecified)",Moderate,Female,Pepperoni
+0.4446,CO,B,West,Mountain,Owned,Divorced,Full-time,68, ,Graduate school or more,"$75,000 but less than $100,000",Very liberal,Male,Pepperoni
+0.7194,ID,D,West,Mountain,Rented,"Single, living with a partner",Full-time,28, ,Some college,"$25,000 but less than $30,000",Somewhat liberal,Male,Pepperoni
+0.5982,NJ,A,North East,Mid Atlantic,Owned,"Single, that is never married",Retired,82, ,High school graduate,"$30,000 but less than $40,000",Don't know,Female,Sausage
+0.6611,AZ,A,West,Mountain,Owned,Married,Retired,87, ,High school graduate,"$30,000 but less than $40,000",Very conservative,Male,Pepperoni
+3.6009,NY,A,North East,Mid Atlantic,Rented,Married,Part-time,41, ,Less than high school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+1.1082,MA,A,North East,New England,Owned,Married,Part-time,64, ,Graduated college,"$150,000 to under $200,000",Moderate,Female,Mushrooms
+1.093,PA,B,North East,Mid Atlantic,Rented,"Single, that is never married",Homemaker,33, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+1.3028,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,58, ,Graduate school or more,"$150,000 to under $200,000",Somewhat liberal,Male,Mushrooms
+0.25,PA,C,North East,Mid Atlantic,Owned,Widowed,Retired,69, ,Some college,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.42,MO,B,North Central,West North Central,Owned,Married,Part-time,67, ,Some college,"Less than $50,000 (Unspecified)",Somewhat liberal,Female,Pepperoni
+0.3224,OH,D,North Central,East North Central,Owned,"Single, that is never married",Retired,66, ,High school graduate,"Less than $15,000",Somewhat liberal,Female,Mushrooms
+0.5678,OR,C,West,Pacific,Owned,Widowed,Retired,78, ,Graduate school or more,"$15,000 but less than $25,000",Somewhat liberal,Male,Sausage
+0.7073,NY,A,North East,Mid Atlantic,Owned,Married,Part-time,54, ,Some college,"$100,000 to under $150,000",Somewhat liberal,Female,Don't know/no answer
+1.2101,CA,A,West,Pacific,Rented,Married,Homemaker,60, ,High school graduate,Don't know,Moderate,Female,Don't eat pizza
+0.3547,NY,B,North East,Mid Atlantic,Rented,"Single, that is never married",Retired,55, ,High school graduate,"Less than $15,000",Somewhat conservative,Female,Pepperoni
+0.8832,WA,A,West,Pacific,Owned,Married,Retired,85, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Sausage
+1.2708,WA,A,West,Pacific,Owned,Married,Full-time,45, ,High school graduate,Refused,Somewhat conservative,Female,Mushrooms
+1.1082,MA,A,North East,New England,Owned,Married,Part-time,47, ,Graduated college,"$200,000 to under $250,000",Moderate,Female,Pepperoni
+1.3844,NY,A,North East,Mid Atlantic,Owned,"Single, that is never married",Full-time,44, ,High school graduate,"$75,000 but less than $100,000",Somewhat conservative,Female,Mushrooms
+0.534,WA,A,West,Pacific,Owned,Widowed,Retired,69, ,Some college,"$25,000 but less than $30,000",Moderate,Female,Sausage
+0.6488,WI,A,North Central,East North Central,Owned,"Single, that is never married",Full-time,23, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Male,Pepperoni
+0.3741,CA,D,West,Pacific,Owned,Widowed,Retired,91, ,Technical school/other,"$15,000 but less than $25,000",Very conservative,Female,Pepperoni
+0.9579,WA,A,West,Pacific,Owned,Married,Retired,70, ,Graduate school or more,"$50,000 but less than $100,000 (Unspecified)",Refused,Male,Pepperoni
+0.6973,CA,A,West,Pacific,Owned,Married,Retired,59, ,Some college,"$30,000 but less than $40,000",Very conservative,Female,Pepperoni
+0.3525,WA,A,West,Pacific,Owned,Married,Retired,Refused,65+,Graduate school or more,"$200,000 to under $250,000",Moderate,Female,Don't eat pizza
+1.1327,SD,D,North Central,West North Central,Owned,"Single, that is never married",Temporarily unemployed,25, ,Less than high school graduate,Don't know,Refused,Female,Mushrooms
+0.4643,WA,A,West,Pacific,Owned,Divorced,Retired,72, ,Some college,Refused,Somewhat liberal,Male,Mushrooms
+2.6353,CA,A,West,Pacific,Rented,"Single, living with a partner",Homemaker,44, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Mushrooms
+0.7425,CA,A,West,Pacific,Owned,"Single, that is never married",Full-time,51, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Female,Don't eat pizza
+0.8311,MN,A,North Central,West North Central,Owned,Married,Retired,70, ,High school graduate,Refused,Somewhat conservative,Male,Mushrooms
+0.6973,OR,B,West,Pacific,Owned,Married,Full-time,54, ,Some college,"$100,000 to under $150,000",Somewhat liberal,Female,Pepperoni
+0.5987,OR,B,West,Pacific,Owned,"Single, that is never married",Part-time,53, ,Graduate school or more,"$50,000 but less than $75,000",Very liberal,Female,Mushrooms
+0.9893,MO,A,North Central,West North Central,Owned,"Single, that is never married",Student,20, ,Some college,Don't know,Somewhat conservative,Female,Don't know/no answer
+0.3592,SD,D,North Central,West North Central,Owned,Married,Retired,79, ,Graduated college,Refused,Very liberal,Male,Sausage
+1.6935,NC,C,South,South Atlantic,Owned,Married,Full-time,37, ,Some college,"$30,000 but less than $40,000",Very conservative,Male,Pepperoni
+0.6589,PA,A,North East,Mid Atlantic,Owned,"Single, living with a partner",Full-time,50, ,Graduated college,"$50,000 but less than $75,000",Don't know,Female,Mushrooms
+0.8267,SC,D,South,South Atlantic,Owned,Married,Full-time,45, ,Graduated college,Refused,Very conservative,Male,Pepperoni
+0.76,NY,C,North East,Mid Atlantic,Rented,Separated,Full-time,28, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+1.0136,CA,A,West,Pacific,Rented,Married,Retired,91, ,High school graduate,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+1.7746,MN,D,North Central,West North Central,Rented,Married,Full-time,39, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Female,Sausage
+0.2849,NJ,A,North East,Mid Atlantic,Owned,Widowed,Retired,72, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat liberal,Male,Don't eat pizza
+0.7386,TN,B,South,East South Central,Owned,Married,Retired,88, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+1.6328,TX,B,South,West South Central,Owned,Married,Full-time,41, ,Graduated college,Refused,Somewhat conservative,Female,Pepperoni
+1.4303,GA,A,South,South Atlantic,Owned,Married,Full-time,50, ,Graduate school or more,Refused,Moderate,Male,Pepperoni
+1.6408,TN,D,South,East South Central,Owned,Married,Full-time,28, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Onions
+0.3477,PA,B,North East,Mid Atlantic,Owned,Married,Retired,90, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat conservative,Male,Mushrooms
+0.8891,NJ,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,29, ,Less than high school graduate,"Less than $15,000",Very conservative,Female,Pepperoni
+0.4311,IN,C,North Central,East North Central,Rented,"Single, that is never married",Full-time,19, ,High school graduate,"$30,000 but less than $40,000",Very liberal,Male,Pepperoni
+0.7907,LA,B,South,West South Central,Owned,Married,Retired,82, ,Graduate school or more,"$100,000 to under $150,000",Very conservative,Male,Pepperoni
+1.3852,FL,B,South,South Atlantic,Owned,Married,Full-time,58, ,High school graduate,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.6026,VA,D,South,South Atlantic,Rented,"Single, that is never married",Disabled/Handicapped,54, ,Graduated college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.5281,WI,B,North Central,East North Central,Owned,Married,Retired,74, ,High school graduate,"$40,000 but less than $50,000",Somewhat liberal,Male,Sausage
+0.8092,TX,C,South,West South Central,Owned,Married,Retired,79, ,High school graduate,"$50,000 but less than $75,000",Very conservative,Female,Pepperoni
+0.7114,NY,A,North East,Mid Atlantic,Owned,"Single, that is never married",Student,22, ,Some college,Don't know,Very liberal,Male,Mushrooms
+0.7513,TN,B,South,East South Central,Owned,"Single, that is never married",Retired,45, ,Graduated college,"Less than $50,000 (Unspecified)",Moderate,Male,Pepperoni
+0.5053,TX,C,South,West South Central,Owned,Married,Temporarily unemployed,64, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Female,Don't know/no answer
+0.7891,NJ,A,North East,Mid Atlantic,Owned,Married,Retired,74, ,Graduate school or more,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+0.684,ID,D,West,Mountain,Owned,Married,Retired,73, ,Graduated college,"$30,000 but less than $40,000",Somewhat conservative,Female,Pepperoni
+0.5304,NM,D,West,Mountain,Owned,"Single, living with a partner",Retired,65, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.6764,NY,C,North East,Mid Atlantic,Owned,Married,Retired,76, ,Graduated college,Refused,Somewhat liberal,Female,Don't know/no answer
+0.8058,NJ,A,North East,Mid Atlantic,Owned,Married,Retired,69, ,High school graduate,"$40,000 but less than $50,000",Very conservative,Male,Pepperoni
+0.25,FL,B,South,South Atlantic,Rented,Widowed,Retired,81, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Female,Mushrooms
+0.4757,TX,A,South,West South Central,Owned,Married,Retired,71, ,Graduate school or more,"$50,000 but less than $75,000",Very liberal,Female,Don't know/no answer
+0.4551,CO,B,West,Mountain,Rented,Divorced,Student,52, ,Graduated college,"Less than $15,000",Somewhat liberal,Male,Mushrooms
+0.25,OK,B,South,West South Central,Rented,"Single, that is never married",Full-time,29, ,Graduated college,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+0.6947,OH,A,North Central,East North Central,Owned,Married,Retired,72, ,High school graduate,Refused,Moderate,Female,Pepperoni
+0.25,AZ,A,West,Mountain,Owned,Widowed,Retired,93, ,High school graduate,Refused,Moderate,Female,Sausage
+0.25,NC,D,South,South Atlantic,Rented,Widowed,Retired,71, ,Less than high school graduate,"Less than $15,000",Very liberal,Female,Pepperoni
+0.25,PA,C,North East,Mid Atlantic,Owned,Widowed,Retired,82, ,Some college,"$40,000 but less than $50,000",Moderate,Female,Mushrooms
+0.5332,AZ,A,West,Mountain,Owned,Married,Full-time,56, ,Graduated college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.3252,NC,B,South,South Atlantic,Rented,Widowed,Retired,83, ,Graduated college,Refused,Somewhat conservative,Male,Mushrooms
+0.5149,FL,B,South,South Atlantic,Owned,Married,Homemaker,53, ,Graduate school or more,"$100,000 to under $150,000",Somewhat conservative,Female,Mushrooms
+0.8507,MA,A,North East,New England,Refused,Refused,Refused,88, ,Technical school/other,Refused,Moderate,Male,Onions
+0.25,PA,C,North East,Mid Atlantic,Rented,Widowed,Retired,78, ,Graduated college,"$15,000 but less than $25,000",Refused,Female,Onions
+0.2582,NJ,A,North East,Mid Atlantic,Rented,Divorced,Retired,81, ,High school graduate,"$25,000 but less than $30,000",Very conservative,Male,Pepperoni
+0.5462,FL,B,South,South Atlantic,Owned,Widowed,Retired,80, ,Some college,Refused,Moderate,Female,Mushrooms
+1.0643,CO,C,West,Mountain,Owned,Married,Full-time,54, ,Graduated college,"$75,000 but less than $100,000",Very liberal,Female,Sausage
+0.3078,KY,D,South,East South Central,Owned,Married,Retired,67, ,High school graduate,"$40,000 but less than $50,000",Somewhat liberal,Female,Onions
+0.3304,FL,B,South,South Atlantic,Owned,Widowed,Retired,81, ,Graduate school or more,Refused,Very liberal,Female,Mushrooms
+0.9166,NC,C,South,South Atlantic,Owned,Married,Full-time,53, ,Graduated college,"$100,000 to under $150,000",Very conservative,Female,Onions
+1.1527,CA,B,West,Pacific,Rented,Separated,Other not employed,40, ,Less than high school graduate,"Less than $15,000",Moderate,Male,Pepperoni
+0.9314,CA,A,West,Pacific,Owned,Married,Retired,72, ,Some college,"$30,000 but less than $40,000",Very conservative,Male,Sausage
+1.6853,NJ,A,North East,Mid Atlantic,Owned,"Single, that is never married",Temporarily unemployed,50, ,Less than high school graduate,Don't know,Very liberal,Male,Mushrooms
+0.7007,OK,D,South,West South Central,Owned,Married,Full-time,65, ,Graduated college,"$15,000 but less than $25,000",Very conservative,Male,Sausage
+0.5229,WV,D,South,South Atlantic,Rented,Divorced,Homemaker,48, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+1.2687,FL,D,South,South Atlantic,Owned,Divorced,Temporarily unemployed,38, ,Some college,Don't know,Somewhat conservative,Male,Onions
+1.2998,MD,A,South,South Atlantic,Owned,Married,Retired,50, ,High school graduate,"$200,000 to under $250,000",Somewhat conservative,Female,Mushrooms
+0.8042,WI,D,North Central,East North Central,Owned,Divorced,Temporarily unemployed,43, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat conservative,Female,Pepperoni
+0.7228,TX,B,South,West South Central,Owned,Married,Part-time,Refused,50-64,Graduated college,"$40,000 but less than $50,000",Very conservative,Male,Sausage
+1.0861,TX,A,South,West South Central,Owned,Married,Retired,52, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+0.6781,CA,A,West,Pacific,Owned,Married,Retired,80, ,High school graduate,"$25,000 but less than $30,000",Somewhat liberal,Female,Sausage
+0.2901,MI,A,North Central,East North Central,Owned,Divorced,Retired,65, ,Graduated college,Refused,Somewhat liberal,Female,Don't know/no answer
+0.7907,TX,A,South,West South Central,Owned,Married,Retired,69, ,Graduate school or more,Refused,Somewhat liberal,Male,Mushrooms
+0.7737,OH,B,North Central,East North Central,Owned,Married,Retired,74, ,High school graduate,Refused,Somewhat liberal,Male,Don't know/no answer
+0.3442,NY,B,North East,Mid Atlantic,Owned,Divorced,Full-time,57, ,Some college,"$40,000 but less than $50,000",Don't know,Female,Don't eat pizza
+1.7299,MA,A,North East,New England,Owned,"Single, that is never married",Part-time,41, ,High school graduate,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+0.8849,NY,A,North East,Mid Atlantic,Rented,Married,Temporarily unemployed,26, ,Technical school/other,"Less than $50,000 (Unspecified)",Moderate,Female,Mushrooms
+0.4697,NY,A,North East,Mid Atlantic,Owned,Married,Retired,71, ,High school graduate,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+1.11,NH,A,North East,New England,Owned,Married,Full-time,50, ,Technical school/other,"$75,000 but less than $100,000",Very conservative,Female,Mushrooms
+0.7719,PA,C,North East,Mid Atlantic,Owned,Married,Part-time,49, ,Less than high school graduate,"$40,000 but less than $50,000",Very conservative,Female,Mushrooms
+0.4725,MA,A,North East,New England,Owned,Widowed,Retired,70, ,Technical school/other,"Less than $50,000 (Unspecified)",Refused,Female,Pepperoni
+0.4943,IA,D,North Central,West North Central,Owned,Married,Full-time,58, ,Graduated college,"$100,000 to under $150,000",Moderate,Male,Onions
+0.5665,VA,B,South,South Atlantic,Rented,"Single, that is never married",Retired,56, ,Less than high school graduate,"$200,000 to under $250,000",Very conservative,Male,Pepperoni
+0.3577,SC,D,South,South Atlantic,Rented,"Single, that is never married",Retired,62, ,Graduated college,Refused,Moderate,Male,Pepperoni
+0.5772,IN,C,North Central,East North Central,Owned,Married,Full-time,Refused,18-29,Some college,"$75,000 but less than $100,000",Very conservative,Male,Onions
+1.0293,NJ,A,North East,Mid Atlantic,Rented,Married,Full-time,53, ,High school graduate,"$75,000 but less than $100,000",Moderate,Male,Sausage
+0.7147,FL,A,South,South Atlantic,Rented,Married,Full-time,65, ,Graduated college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.2814,MA,B,North East,New England,Owned,Widowed,Retired,68, ,Less than high school graduate,"$15,000 but less than $25,000",Don't know,Female,Mushrooms
+0.3726,MA,A,North East,New England,Owned,Separated,Temporarily unemployed,61, ,Graduated college,"$75,000 but less than $100,000",Refused,Female,Mushrooms
+1.7423,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,53, ,High school graduate,"$75,000 but less than $100,000",Somewhat liberal,Male,Sausage
+1.0673,OH,B,North Central,East North Central,Don't know,"Single, living with a partner",Temporarily unemployed,18, ,Less than high school graduate,Don't know,Don't know,Male,Mushrooms
+0.9606,NY,A,North East,Mid Atlantic,Owned,Married,Full-time,57, ,Graduated college,"$200,000 to under $250,000",Moderate,Female,Pepperoni
+0.5219,ME,C,North East,New England,Rented,Widowed,Part-time,64, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.4546,PA,B,North East,Mid Atlantic,Owned,Married,Retired,70, ,Technical school/other,Refused,Very conservative,Female,Pepperoni
+0.6117,NJ,A,North East,Mid Atlantic,Owned,Divorced,Retired,Refused,50-64,Graduated college,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.4212,IN,B,North Central,East North Central,Rented,Widowed,Retired,71, ,High school graduate,"$25,000 but less than $30,000",Somewhat conservative,Female,Onions
+0.704,FL,C,South,South Atlantic,Owned,Married,Retired,62, ,High school graduate,"$25,000 but less than $30,000",Very conservative,Female,Mushrooms
+0.4804,IA,C,North Central,West North Central,Owned,Divorced,Retired,70, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Male,Sausage
+0.25,TX,D,South,West South Central,Owned,Widowed,Retired,66, ,Graduated college,"$15,000 but less than $25,000",Somewhat conservative,Female,Mushrooms
+0.8538,NC,C,South,South Atlantic,Rented,Married,Retired,83, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.2888,OH,B,North Central,East North Central,Owned,Widowed,Retired,84, ,Less than high school graduate,"Less than $15,000",Don't know,Male,Sausage
+1.1986,WI,D,North Central,East North Central,Owned,Married,Other not employed,50, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.811,MA,A,North East,New England,Owned,Married,Retired,80, ,High school graduate,"$50,000 but less than $75,000",Moderate,Male,Sausage
+0.25,TX,C,South,West South Central,Owned,Divorced,Retired,80, ,High school graduate,"Less than $15,000",Somewhat conservative,Female,Pepperoni
+0.25,IL,A,North Central,East North Central,Rented,Widowed,Retired,87, ,Graduated college,"$40,000 but less than $50,000",Somewhat liberal,Female,Mushrooms
+0.9106,AZ,A,West,Mountain,Owned,"Single, that is never married",Temporarily unemployed,45, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+1.3813,TN,B,South,East South Central,Owned,Married,Retired,63, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+1.0519,TX,C,South,West South Central,Owned,"Single, living with a partner",Full-time,26, ,Some college,"$25,000 but less than $30,000",Somewhat conservative,Female,Sausage
+0.7884,FL,B,South,South Atlantic,Owned,Married,Full-time,48, ,Graduated college,"$50,000 but less than $75,000",Very liberal,Male,Pepperoni
+0.9437,TX,C,South,West South Central,Owned,Married,Homemaker,62, ,Graduated college,"$150,000 to under $200,000",Somewhat conservative,Female,Pepperoni
+0.464,CA,B,West,Pacific,Owned,"Single, that is never married",Part-time,59, ,Less than high school graduate,"Less than $15,000",Moderate,Male,Onions
+0.25,KY,D,South,East South Central,Owned,Divorced,Retired,68, ,Graduate school or more,"$30,000 but less than $40,000",Somewhat liberal,Female,Sausage
+0.7837,CA,A,West,Pacific,Owned,Married,Retired,56, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Sausage
+1.1122,LA,B,South,West South Central,Rented,Married,Homemaker,48, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Female,Sausage
+0.3377,NH,D,North East,New England,Owned,Widowed,Retired,83, ,Some college,"$30,000 but less than $40,000",Somewhat liberal,Female,Mushrooms
+1.2971,WI,D,North Central,East North Central,Owned,Married,Retired,83, ,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+0.8084,WA,A,West,Pacific,Owned,Married,Retired,83, ,Graduated college,"$250,000 or more",Somewhat conservative,Male,Don't know/no answer
+0.4768,IL,A,North Central,East North Central,Rented,Divorced,Retired,53, ,Less than high school graduate,"Less than $15,000",Refused,Male,Don't eat pizza
+0.9771,IL,D,North Central,East North Central,Owned,Married,Full-time,56, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat liberal,Male,Onions
+1.5359,TX,A,South,West South Central,Owned,Married,Full-time,50, ,Graduate school or more,Refused,Refused,Male,Mushrooms
+0.4271,AL,B,South,East South Central,Rented,Divorced,Full-time,47, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Sausage
+0.3234,TX,A,South,West South Central,Rented,Married,Homemaker,84, ,Graduate school or more,"$30,000 but less than $40,000",Very conservative,Female,Mushrooms
+1.0634,GA,A,South,South Atlantic,Rented,"Single, living with a partner",Temporarily unemployed,44, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Female,Sausage
+0.3304,TX,A,South,West South Central,Owned,Widowed,Retired,75, ,Graduate school or more,"$100,000 to under $150,000",Somewhat liberal,Female,Don't eat pizza
+1.5578,CA,B,West,Pacific,Owned,Married,Full-time,52, ,High school graduate,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+1.1379,CA,A,West,Pacific,Owned,Married,Full-time,56, ,High school graduate,Refused,Moderate,Female,Mushrooms
+0.258,MI,A,North Central,East North Central,Rented,Refused,Retired,90, ,Some college,"$100,000 and over (Unspecified)",Somewhat liberal,Male,Sausage
+0.4804,OH,A,North Central,East North Central,Owned,Widowed,Temporarily unemployed,72, ,Some college,Refused,Somewhat conservative,Male,Onions
+0.2615,CA,A,West,Pacific,Owned,Widowed,Retired,93, ,Graduate school or more,Refused,Very liberal,Female,Don't eat pizza
+0.5067,OK,D,South,West South Central,Owned,Divorced,Full-time,26, ,Graduated college,"$75,000 but less than $100,000",Somewhat liberal,Male,Don't eat pizza
+0.25,AR,B,South,West South Central,Owned,Widowed,Retired,78, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.379,ID,B,West,Mountain,Owned,Widowed,Retired,75, ,High school graduate,"Less than $50,000 (Unspecified)",Somewhat liberal,Female,Sausage
+0.7616,NE,D,North Central,West North Central,Owned,Married,Retired,67, ,Some college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.8774,WI,B,North Central,East North Central,Owned,Married,Retired,64, ,Graduate school or more,"$50,000 but less than $75,000",Somewhat liberal,Male,Pepperoni
+0.9132,CA,B,West,Pacific,Owned,Married,Retired,77, ,Some college,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+0.7493,IA,D,North Central,West North Central,Owned,Married,Retired,84, ,High school graduate,Refused,Somewhat conservative,Male,Sausage
+0.4555,SC,B,South,South Atlantic,Owned,Married,Retired,82, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Don't know/no answer
+1.0832,FL,B,South,South Atlantic,Owned,Married,Full-time,54, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Male,Sausage
+0.5128,WI,B,North Central,East North Central,Rented,Widowed,Part-time,50, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Female,Sausage
+0.5967,PA,B,North East,Mid Atlantic,Owned,Married,Retired,66, ,High school graduate,"$30,000 but less than $40,000",Very conservative,Male,Pepperoni
+0.8837,CT,C,North East,New England,Owned,"Single, that is never married",Full-time,52, ,Technical school/other,"$30,000 but less than $40,000",Very conservative,Male,Mushrooms
+0.25,VA,B,South,South Atlantic,Owned,Widowed,Retired,80, ,Technical school/other,Refused,Refused,Female,Sausage
+0.4378,FL,B,South,South Atlantic,Owned,Married,Retired,67, ,Graduated college,"$100,000 to under $150,000",Very liberal,Male,Sausage
+0.5704,MI,D,North Central,East North Central,Owned,Married,Retired,68, ,Graduated college,"$30,000 but less than $40,000",Very conservative,Female,Mushrooms
+0.5668,IN,C,North Central,East North Central,Owned,"Single, that is never married",Full-time,50, ,Graduated college,"$50,000 but less than $75,000",Very liberal,Female,Mushrooms
+1.2301,FL,C,South,South Atlantic,Refused,Widowed,Retired,87, ,High school graduate,Refused,Very conservative,Female,Onions
+1.1667,NC,B,South,South Atlantic,Owned,Married,Full-time,59, ,Graduate school or more,"$100,000 and over (Unspecified)",Somewhat liberal,Female,Mushrooms
+0.7291,NC,C,South,South Atlantic,Owned,Married,Retired,74, ,Some college,"$75,000 but less than $100,000",Moderate,Female,Mushrooms
+0.9048,VA,C,South,South Atlantic,Owned,Married,Retired,71, ,Technical school/other,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+1.2006,MI,A,North Central,East North Central,Owned,Married,Retired,62, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Male,Don't eat pizza
+0.7989,OH,A,North Central,East North Central,Owned,Married,Retired,65, ,Graduate school or more,"$100,000 to under $150,000",Moderate,Male,Mushrooms
+1.629,DC,A,South,South Atlantic,Rented,Married,Part-time,63, ,Graduated college,Refused,Very liberal,Male,Mushrooms
+0.2625,HI,C,West,Pacific,Owned,Divorced,Part-time,72, ,Graduated college,"$15,000 but less than $25,000",Somewhat liberal,Male,Sausage
+0.7493,OH,D,North Central,East North Central,Owned,Married,Retired,70, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Male,Pepperoni
+0.25,OH,D,North Central,East North Central,Owned,Divorced,Retired,87, ,High school graduate,Refused,Don't know,Female,Onions
+0.3994,OH,A,North Central,East North Central,Owned,Married,Retired,68, ,Graduate school or more,"$75,000 but less than $100,000",Moderate,Male,Sausage
+0.6145,WA,D,West,Pacific,Owned,Married,Full-time,56, ,Some college,"$25,000 but less than $30,000",Very conservative,Female,Mushrooms
+0.47,NC,B,South,South Atlantic,Owned,Separated,Retired,76, ,Less than high school graduate,"$25,000 but less than $30,000",Very conservative,Male,Don't eat pizza
+0.8703,OH,B,North Central,East North Central,Owned,Married,Full-time,55, ,Graduated college,"Less than $15,000",Somewhat conservative,Female,Don't know/no answer
+0.8366,TX,A,South,West South Central,Owned,Married,Retired,66, ,High school graduate,"$40,000 but less than $50,000",Very conservative,Male,Sausage
+0.7291,DE,C,South,South Atlantic,Rented,Married,Part-time,74, ,Some college,"$75,000 but less than $100,000",Somewhat liberal,Female,Pepperoni
+0.704,GA,C,South,South Atlantic,Owned,Married,Disabled/Handicapped,61, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Female,Pepperoni
+1.6126,LA,D,South,West South Central,Rented,Married,Disabled/Handicapped,40, ,Some college,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+0.3171,MO,D,North Central,West North Central,Owned,Divorced,Retired,60, ,Some college,"Less than $15,000",Somewhat liberal,Female,Mushrooms
+0.8012,WI,C,North Central,East North Central,Owned,Married,Retired,64, ,Some college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.3047,MO,A,North Central,West North Central,Owned,Widowed,Retired,84, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Don't know/no answer
+0.3872,IN,A,North Central,East North Central,Owned,Widowed,Retired,68, ,Some college,"$40,000 but less than $50,000",Moderate,Male,Sausage
+1.3556,CA,B,West,Pacific,Rented,Married,Part-time,30, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+0.5594,LA,B,South,West South Central,Owned,Married,Retired,62, ,Graduated college,"$250,000 or more",Very conservative,Male,Pepperoni
+1.3054,TX,D,South,West South Central,Owned,Married,Retired,52, ,Graduate school or more,Refused,Very liberal,Male,Pepperoni
+0.25,PA,D,North East,Mid Atlantic,Owned,Separated,Retired,74, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+0.5806,AZ,C,West,Mountain,Owned,"Single, that is never married",Retired,60, ,Less than high school graduate,"$25,000 but less than $30,000",Very conservative,Male,Pepperoni
+0.8138,FL,A,South,South Atlantic,Owned,"Single, that is never married",Part-time,18, ,Less than high school graduate,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.6863,NC,B,South,South Atlantic,Rented,Married,Disabled/Handicapped,56, ,High school graduate,"Less than $15,000",Very conservative,Female,Pepperoni
+0.4049,TN,B,South,East South Central,Owned,"Single, that is never married",Temporarily unemployed,23, ,High school graduate,"$75,000 but less than $100,000",Very conservative,Male,Sausage
+1.0859,OK,D,South,West South Central,Owned,Widowed,Disabled/Handicapped,61, ,Less than high school graduate,"$50,000 but less than $100,000 (Unspecified)",Somewhat conservative,Male,Mushrooms
+0.5007,AR,D,South,West South Central,Owned,Married,Retired,67, ,Graduated college,Refused,Somewhat conservative,Male,Pepperoni
+1.4952,KS,B,North Central,West North Central,Owned,Married,Full-time,40, ,Graduate school or more,Refused,Somewhat conservative,Male,Onions
+0.4271,NC,B,South,South Atlantic,Rented,Divorced,Full-time,59, ,High school graduate,"$40,000 but less than $50,000",Somewhat liberal,Male,Pepperoni
+0.6305,PA,C,North East,Mid Atlantic,Owned,Married,Full-time,56, ,Technical school/other,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+0.4057,CA,C,West,Pacific,Owned,"Single, living with a partner",Retired,84, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Male,Pepperoni
+0.6493,WA,B,West,Pacific,Owned,Married,Full-time,59, ,High school graduate,"$200,000 to under $250,000",Moderate,Male,Sausage
+0.9958,NC,D,South,South Atlantic,Owned,Married,Part-time,Refused,65+,Less than high school graduate,"$25,000 but less than $30,000",Moderate,Male,Sausage
+0.7715,OH,D,North Central,East North Central,Owned,Married,Part-time,67, ,High school graduate,"$25,000 but less than $30,000",Very conservative,Male,Onions
+0.6722,FL,A,South,South Atlantic,Rented,"Single, that is never married",Part-time,20, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+0.4029,NC,D,South,South Atlantic,Rented,"Single, that is never married",Part-time,28, ,Graduated college,"$100,000 and over (Unspecified)",Very liberal,Female,Sausage
+1.3315,VA,A,South,South Atlantic,Owned,Married,Full-time,53, ,Graduate school or more,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+0.2928,FL,B,South,South Atlantic,Owned,Divorced,Part-time,65, ,Graduated college,Refused,Very conservative,Female,Pepperoni
+1.0056,PA,A,North East,Mid Atlantic,Owned,Married,Full-time,27, ,Some college,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+2.0628,MD,A,South,South Atlantic,Rented,"Single, that is never married",Full-time,30, ,Graduated college,"$30,000 but less than $40,000",Moderate,Female,Don't eat pizza
+1.3785,PA,B,North East,Mid Atlantic,Owned,Married,Full-time,56, ,High school graduate,"$40,000 but less than $50,000",Somewhat liberal,Male,Sausage
+3.0797,KY,B,South,East South Central,Rented,Married,Part-time,58, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+3.5473,CA,A,West,Pacific,Rented,Married,Full-time,31, ,Graduate school or more,Refused,Moderate,Male,Pepperoni
+0.25,OH,A,North Central,East North Central,Owned,Widowed,Retired,65, ,Graduated college,Refused,Somewhat liberal,Male,Pepperoni
+0.8316,PA,B,North East,Mid Atlantic,Owned,"Single, living with a partner",Full-time,50, ,Some college,"$100,000 and over (Unspecified)",Somewhat conservative,Female,Pepperoni
+0.5882,GA,A,South,South Atlantic,Owned,Divorced,Full-time,55, ,Graduated college,"$75,000 but less than $100,000",Very conservative,Male,Mushrooms
+0.8876,OH,B,North Central,East North Central,Owned,Married,Full-time,45, ,Graduated college,"$75,000 but less than $100,000",Very conservative,Female,Mushrooms
+0.8725,AR,D,South,West South Central,Rented,Separated,Disabled/Handicapped,63, ,High school graduate,"Less than $15,000",Very liberal,Male,Sausage
+0.4143,IA,D,North Central,West North Central,Rented,Divorced,Full-time,61, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+1.0887,TN,B,South,East South Central,Owned,Married,Disabled/Handicapped,50, ,Graduated college,"$75,000 but less than $100,000",Somewhat liberal,Female,Onions
+1.214,AR,B,South,West South Central,Rented,"Single, that is never married",Full-time,Refused,18-29,High school graduate,Refused,Moderate,Male,Sausage
+0.8621,NE,D,North Central,West North Central,Rented,"Single, that is never married",Full-time,23, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Pepperoni
+1.585,IA,B,North Central,West North Central,Rented,"Single, that is never married",Full-time,33, ,Graduated college,"$50,000 but less than $75,000",Moderate,Male,Mushrooms
+1.7745,ND,C,North Central,West North Central,Rented,"Single, living with a partner",Full-time,23, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.3959,TN,D,South,East South Central,Owned,Widowed,Retired,69, ,Less than high school graduate,"Less than $15,000",Very conservative,Male,Sausage
+0.4967,TX,C,South,West South Central,Owned,"Single, that is never married",Part-time,74, ,Graduate school or more,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.8419,KS,B,North Central,West North Central,Owned,Divorced,Full-time,50, ,Technical school/other,"$50,000 but less than $75,000",Somewhat conservative,Female,Sausage
+0.6669,TX,A,South,West South Central,Owned,Married,Retired,74, ,High school graduate,"$50,000 but less than $75,000",Very conservative,Female,Onions
+2.1832,IL,A,North Central,East North Central,Rented,"Single, that is never married",Part-time,30, ,Graduate school or more,"$15,000 but less than $25,000",Somewhat liberal,Female,Mushrooms
+0.698,AR,C,South,West South Central,Owned,Married,Retired,Refused,65+,Graduate school or more,Refused,Moderate,Female,Mushrooms
+0.505,WI,B,North Central,East North Central,Owned,"Single, that is never married",Full-time,45, ,Graduated college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+0.3808,IL,A,North Central,East North Central,Rented,"Single, that is never married",Part-time,19, ,High school graduate,"Less than $15,000",Moderate,Male,Pepperoni
+1.4904,MO,A,North Central,West North Central,Owned,"Single, that is never married",Part-time,23, ,Graduated college,"$50,000 but less than $100,000 (Unspecified)",Moderate,Female,Pepperoni
+1.0652,NE,B,North Central,West North Central,Rented,"Single, that is never married",Full-time,24, ,Some college,"$25,000 but less than $30,000",Don't know,Male,Pepperoni
+0.9969,TN,B,South,East South Central,Rented,"Single, that is never married",Part-time,28, ,Graduated college,"$15,000 but less than $25,000",Very liberal,Male,Onions
+0.2766,MN,A,North Central,West North Central,Owned,Married,Full-time,69, ,Some college,"$50,000 but less than $75,000",Very conservative,Male,Pepperoni
+1.2675,LA,B,South,West South Central,Owned,Married,Full-time,63, ,Graduated college,"$100,000 to under $150,000",Somewhat liberal,Male,Pepperoni
+0.5815,TX,C,South,West South Central,Owned,Married,Retired,65, ,High school graduate,"Less than $15,000",Refused,Female,Mushrooms
+0.9472,TX,B,South,West South Central,Owned,"Single, that is never married",Full-time,18, ,High school graduate,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+0.5839,TN,D,South,East South Central,Owned,Separated,Retired,69, ,Less than high school graduate,"Less than $15,000",Somewhat conservative,Male,Sausage
+1.6561,TX,B,South,West South Central,Owned,"Single, that is never married",Full-time,23, ,Some college,"Less than $15,000",Somewhat conservative,Female,Pepperoni
+0.7614,FL,A,South,South Atlantic,Owned,Married,Retired,55, ,Some college,"$50,000 but less than $75,000",Very liberal,Female,Don't know/no answer
+1.5617,WI,B,North Central,East North Central,Owned,Married,Full-time,39, ,Some college,"$75,000 but less than $100,000",Somewhat conservative,Male,Sausage
+0.9769,CA,B,West,Pacific,Rented,Widowed,Retired,74, ,High school graduate,"Less than $50,000 (Unspecified)",Very conservative,Female,Onions
+0.9977,HI,B,West,Pacific,Rented,"Single, that is never married",Part-time,21, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+2.1003,CA,B,West,Pacific,Rented,"Single, that is never married",Temporarily unemployed,22, ,Some college,"Less than $15,000",Very conservative,Female,Pepperoni
+2.1003,AZ,A,West,Mountain,Rented,"Single, living with a partner",Part-time,21, ,Some college,"Less than $15,000",Very liberal,Female,Mushrooms
+0.4588,CA,B,West,Pacific,Owned,"Single, living with a partner",Full-time,50, ,High school graduate,"$50,000 but less than $75,000",Very liberal,Female,Sausage
+1.1242,CA,B,West,Pacific,Rented,"Single, that is never married",Full-time,25, ,Graduated college,"$25,000 but less than $30,000",Somewhat conservative,Male,Sausage
+0.6882,CA,A,West,Pacific,Owned,Married,Full-time,45, ,Graduated college,"$200,000 to under $250,000",Somewhat conservative,Female,Onions
+1.7913,HI,B,West,Pacific,Rented,"Single, that is never married",Student,18, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Sausage
+1.1475,CA,A,West,Pacific,Rented,"Single, that is never married",Part-time,18, ,High school graduate,"$50,000 but less than $75,000",Very liberal,Male,Mushrooms
+1.1829,CA,A,West,Pacific,Rented,"Single, that is never married",Part-time,33, ,Technical school/other,"Less than $15,000",Refused,Male,Sausage
+1.1611,WA,A,West,Pacific,Rented,"Single, that is never married",Temporarily unemployed,23, ,Graduated college,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+0.8245,AK,D,West,Pacific,Owned,Married,Part-time,74, ,Some college,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+0.7662,CA,A,West,Pacific,Rented,Married,Full-time,48, ,Some college,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.9329,NV,B,West,Mountain,Owned,Married,Full-time,29, ,Graduated college,"$25,000 but less than $30,000",Somewhat conservative,Female,Pepperoni
+1.2991,AZ,A,West,Mountain,Rented,"Single, that is never married",Full-time,21, ,Some college,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+1.2735,OR,B,West,Pacific,Rented,Divorced,Full-time,51, ,Graduated college,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+3.1436,CA,A,West,Pacific,Rented,Married,Full-time,37, ,Graduated college,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+0.8232,NY,A,North East,Mid Atlantic,Rented,"Single, living with a partner",Full-time,20, ,High school graduate,"$15,000 but less than $25,000",Very liberal,Female,Mushrooms
+0.3961,CA,A,West,Pacific,Owned,Widowed,Retired,70, ,Graduated college,"$250,000 or more",Moderate,Male,Don't know/no answer
+2.2626,CA,A,West,Pacific,Owned,"Single, that is never married",Full-time,28, ,Some college,"$40,000 but less than $50,000",Very liberal,Female,Pepperoni
+0.9052,AK,C,West,Pacific,Owned,Divorced,Full-time,68, ,Graduate school or more,Refused,Somewhat liberal,Female,Don't eat pizza
+0.9643,OR,D,West,Pacific,Rented,Widowed,Retired,65, ,Some college,"$25,000 but less than $30,000",Somewhat liberal,Female,Pepperoni
+0.5874,NC,B,South,South Atlantic,Rented,"Single, living with a partner",Full-time,22, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+1.5349,TN,C,South,East South Central,Rented,Married,Student,26, ,Graduated college,"$30,000 but less than $40,000",Somewhat conservative,Male,Onions
+1.5108,FL,B,South,South Atlantic,Owned,Married,Retired,74, ,High school graduate,Refused,Somewhat conservative,Male,Sausage
+0.5873,WI,C,North Central,East North Central,Owned,Divorced,Full-time,51, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Female,Sausage
+2.5897,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,32, ,Graduated college,Refused,Somewhat liberal,Male,Pepperoni
+1.4593,NY,A,North East,Mid Atlantic,Owned,Married,Disabled/Handicapped,58, ,Graduated college,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+1.1899,NY,A,North East,Mid Atlantic,Rented,Separated,Part-time,40, ,Less than high school graduate,"Less than $15,000",Somewhat liberal,Female,Mushrooms
+1.8518,NY,A,North East,Mid Atlantic,Owned,Married,Full-time,35, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+2.4877,OH,B,North Central,East North Central,Rented,Married,Full-time,45, ,Some college,"$75,000 but less than $100,000",Somewhat liberal,Male,Pepperoni
+0.7276,PA,D,North East,Mid Atlantic,Owned,Married,Retired,67, ,Some college,"$75,000 but less than $100,000",Moderate,Female,Pepperoni
+0.869,TX,A,South,West South Central,Owned,Married,Retired,82, ,High school graduate,"$100,000 and over (Unspecified)",Moderate,Female,Mushrooms
+1.8995,TX,C,South,West South Central,Rented,"Single, living with a partner",Part-time,18, ,Some college,"Less than $15,000",Somewhat liberal,Female,Pepperoni
+1.3015,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Student,21, ,High school graduate,"Less than $15,000",Moderate,Male,Sausage
+1.2932,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,19, ,High school graduate,"Less than $50,000 (Unspecified)",Moderate,Male,Pepperoni
+0.6103,MD,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,19, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Sausage
+0.9458,NY,A,North East,Mid Atlantic,Rented,Married,Full-time,40, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Male,Mushrooms
+0.7116,TX,B,South,West South Central,Rented,Separated,Disabled/Handicapped,60, ,Less than high school graduate,"Less than $15,000",Somewhat conservative,Male,Pepperoni
+0.3247,NC,B,South,South Atlantic,Owned,Married,Full-time,67, ,Graduated college,Refused,Somewhat conservative,Male,Pepperoni
+2.314,MI,A,North Central,East North Central,Rented,"Single, that is never married",Part-time,19, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.9829,MA,A,North East,New England,Owned,"Single, that is never married",Part-time,19, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Female,Onions
+3.0027,CO,B,West,Mountain,Rented,Married,Part-time,45, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Male,Mushrooms
+0.7739,VA,C,South,South Atlantic,Owned,Widowed,Retired,71, ,Less than high school graduate,"Less than $15,000",Moderate,Male,Onions
+1.3577,NY,B,North East,Mid Atlantic,Owned,Married,Retired,66, ,High school graduate,Refused,Moderate,Female,Pepperoni
+1.1949,IL,A,North Central,East North Central,Rented,"Single, that is never married",Full-time,28, ,High school graduate,"$25,000 but less than $30,000",Moderate,Male,Mushrooms
+0.6748,OH,B,North Central,East North Central,Refused,Separated,Disabled/Handicapped,61, ,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+1.3055,NJ,A,North East,Mid Atlantic,Rented,"Single, living with a partner",Full-time,29, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Don't know/no answer
+1.2825,LA,B,South,West South Central,Rented,Widowed,Disabled/Handicapped,58, ,Some college,"Less than $15,000",Moderate,Female,Pepperoni
+0.7372,NC,C,South,South Atlantic,Owned,Married,Full-time,Refused,50-64,Graduated college,"$50,000 but less than $75,000",Moderate,Male,Sausage
+2.0908,NJ,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,26, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+1.6628,CA,A,West,Pacific,Owned,Married,Full-time,45, ,High school graduate,"$40,000 but less than $50,000",Somewhat liberal,Male,Mushrooms
+3.2017,NY,A,North East,Mid Atlantic,Rented,Married,Full-time,42, ,Graduate school or more,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+0.3525,WV,D,South,South Atlantic,Owned,Married,Retired,65, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.6659,OH,A,North Central,East North Central,Owned,"Single, living with a partner",Full-time,18, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+2.6413,PA,B,North East,Mid Atlantic,Owned,Married,Full-time,42, ,Graduated college,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.7866,NJ,A,North East,Mid Atlantic,Owned,Divorced,Full-time,38, ,Technical school/other,"$50,000 but less than $75,000",Moderate,Male,Mushrooms
+1.0214,IL,A,North Central,East North Central,Rented,Married,Homemaker,45, ,High school graduate,"$25,000 but less than $30,000",Somewhat conservative,Female,Pepperoni
+2.4375,WA,B,West,Pacific,Rented,Married,Full-time,27, ,Less than high school graduate,"$25,000 but less than $30,000",Somewhat conservative,Male,Mushrooms
+1.3044,FL,B,South,South Atlantic,Owned,Widowed,Retired,Refused,50-64,Some college,"$15,000 but less than $25,000",Moderate,Female,Mushrooms
+0.8867,IN,D,North Central,East North Central,Owned,Married,Full-time,50, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat conservative,Female,Sausage
+1.7305,MA,B,North East,New England,Rented,"Single, that is never married",Disabled/Handicapped,52, ,High school graduate,"Less than $15,000",Very liberal,Male,Mushrooms
+0.3116,FL,C,South,South Atlantic,Rented,"Single, that is never married",Full-time,26, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Pepperoni
+1.024,MD,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,57, ,Graduated college,"$100,000 to under $150,000",Very conservative,Male,Pepperoni
+1.0438,GA,A,South,South Atlantic,Owned,Married,Part-time,70, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Male,Pepperoni
+1.9861,FL,C,South,South Atlantic,Rented,Separated,Full-time,31, ,Some college,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.7276,NJ,A,North East,Mid Atlantic,Owned,Married,Part-time,80, ,Technical school/other,Refused,Somewhat conservative,Female,Onions
+0.9211,MS,B,South,East South Central,Owned,Divorced,Full-time,40, ,Graduate school or more,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.5195,IL,A,North Central,East North Central,Rented,"Single, that is never married",Full-time,53, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Mushrooms
+1.3475,WA,A,West,Pacific,Owned,Married,Full-time,53, ,Some college,"$150,000 to under $200,000",Moderate,Female,Pepperoni
+1.2284,TX,C,South,West South Central,Owned,Married,Full-time,62, ,Graduate school or more,"$150,000 to under $200,000",Somewhat conservative,Female,Sausage
+0.5278,TN,B,South,East South Central,Owned,Married,Part-time,70, ,High school graduate,"$30,000 but less than $40,000",Very conservative,Female,Pepperoni
+1.75,WI,B,North Central,East North Central,Rented,Married,Part-time,28, ,Graduate school or more,"$15,000 but less than $25,000",Somewhat liberal,Male,Onions
+0.6831,MS,B,South,East South Central,Rented,Married,Full-time,40, ,Graduate school or more,"$30,000 but less than $40,000",Somewhat liberal,Male,Onions
+0.3948,MO,C,North Central,West North Central,Owned,Divorced,Other not employed,48, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+1.5159,WI,C,North Central,East North Central,Rented,"Single, that is never married",Full-time,23, ,Graduated college,"$40,000 but less than $50,000",Somewhat conservative,Female,Sausage
+1.1268,TX,A,South,West South Central,Owned,Married,Full-time,53, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.8983,OK,B,South,West South Central,Owned,"Single, that is never married",Student,19, ,High school graduate,"$250,000 or more",Moderate,Male,Sausage
+0.7151,IL,A,North Central,East North Central,Owned,"Single, that is never married",Part-time,20, ,High school graduate,Don't know,Moderate,Male,Sausage
+1.0859,TX,A,South,West South Central,Owned,Divorced,Disabled/Handicapped,58, ,Less than high school graduate,Don't know,Somewhat conservative,Male,Sausage
+0.8268,IL,A,North Central,East North Central,Rented,"Single, living with a partner",Full-time,20, ,High school graduate,Don't know,Very liberal,Male,Pepperoni
+1.3044,OK,B,South,West South Central,Rented,Divorced,Disabled/Handicapped,54, ,Some college,"Less than $15,000",Moderate,Female,Pepperoni
+0.5069,MN,A,North Central,West North Central,Rented,Divorced,Full-time,63, ,Graduate school or more,"$50,000 but less than $75,000",Very liberal,Male,Sausage
+1.3044,AR,C,South,West South Central,Rented,Divorced,Full-time,61, ,Technical school/other,"$30,000 but less than $40,000",Very conservative,Female,Pepperoni
+2.7001,IL,B,North Central,East North Central,Owned,Married,Full-time,37, ,Graduate school or more,"$100,000 to under $150,000",Moderate,Male,Sausage
+0.4759,WI,A,North Central,East North Central,Owned,Married,Full-time,61, ,Some college,"$50,000 but less than $100,000 (Unspecified)",Somewhat conservative,Female,Mushrooms
+0.5175,WI,B,North Central,East North Central,Owned,Married,Retired,69, ,Some college,"$25,000 but less than $30,000",Somewhat conservative,Female,Pepperoni
+1.2029,IL,A,North Central,East North Central,Owned,Divorced,Full-time,50, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.3656,LA,C,South,West South Central,Rented,Divorced,Disabled/Handicapped,53, ,High school graduate,"Less than $15,000",Somewhat conservative,Female,Sausage
+0.3534,NE,D,North Central,West North Central,Owned,Widowed,Retired,82, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Male,Sausage
+2.6032,MO,B,North Central,West North Central,Refused,Separated,Temporarily unemployed,31, ,Less than high school graduate,"Less than $15,000",Very conservative,Female,Pepperoni
+1.9213,UT,B,West,Mountain,Rented,Married,Full-time,42, ,Some college,"$40,000 but less than $50,000",Moderate,Female,Sausage
+1.8552,CO,B,West,Mountain,Owned,"Single, that is never married",Full-time,24, ,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+1.8451,TX,B,South,West South Central,Rented,Married,Full-time,24, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+2.1003,CO,B,West,Mountain,Rented,"Single, that is never married",Student,19, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Female,Pepperoni
+0.5041,NM,C,West,Mountain,Owned,Widowed,Temporarily unemployed,61, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Mushrooms
+0.6457,HI,B,West,Pacific,Rented,Divorced,Retired,57, ,Some college,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+0.4841,OR,C,West,Pacific,Owned,Married,Retired,71, ,Graduated college,"$100,000 to under $150,000",Very liberal,Male,Onions
+1.9526,CA,A,West,Pacific,Rented,"Single, that is never married",Full-time,22, ,Graduated college,"$75,000 but less than $100,000",Very liberal,Female,Pepperoni
+1.4558,UT,D,West,Mountain,Owned,Married,Full-time,65, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+1.2792,CO,D,West,Mountain,Owned,Married,Full-time,62, ,Graduated college,"$30,000 but less than $40,000",Very conservative,Male,Pepperoni
+0.4566,AK,D,West,Pacific,Owned,Married,Retired,78, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+2.3411,WA,C,West,Pacific,Rented,Married,Full-time,48, ,Graduated college,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+0.6504,CA,A,West,Pacific,Owned,Divorced,Temporarily unemployed,50, ,Graduated college,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+1.0682,NV,B,West,Mountain,Rented,"Single, that is never married",Full-time,20, ,High school graduate,Don't know,Somewhat conservative,Male,Mushrooms
+1.032,CO,B,West,Mountain,Owned,Married,Part-time,63, ,Some college,Refused,Somewhat conservative,Male,Pepperoni
+3.4258,UT,D,West,Mountain,Owned,Married,Full-time,32, ,High school graduate,"$75,000 but less than $100,000",Somewhat conservative,Male,Mushrooms
+2.7592,CA,A,West,Pacific,Owned,Married,Disabled/Handicapped,60, ,Some college,"$100,000 to under $150,000",Very conservative,Male,Don't know/no answer
+2.0779,WA,A,West,Pacific,Owned,Married,Part-time,36, ,Graduate school or more,Refused,Very liberal,Female,Don't know/no answer
+1.2333,CA,A,West,Pacific,Owned,Married,Part-time,47, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+2.3657,CA,A,West,Pacific,Rented,Divorced,Full-time,34, ,Some college,"$50,000 but less than $75,000",Somewhat liberal,Male,Mushrooms
+0.6008,OR,B,West,Pacific,Owned,Divorced,Retired,72, ,High school graduate,"$50,000 but less than $75,000",Refused,Male,Pepperoni
+1.5002,WA,B,West,Pacific,Owned,Divorced,Disabled/Handicapped,54, ,Graduated college,Refused,Somewhat conservative,Male,Pepperoni
+0.8789,HI,C,West,Pacific,Owned,"Single, that is never married",Retired,65, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.592,NV,B,West,Mountain,Owned,Divorced,Retired,72, ,Graduated college,"$25,000 but less than $30,000",Somewhat conservative,Male,Pepperoni
+1.7162,CA,A,West,Pacific,Rented,"Single, that is never married",Temporarily unemployed,18, ,Less than high school graduate,"Less than $15,000",Somewhat liberal,Male,Pepperoni
+2.0497,CA,B,West,Pacific,Rented,"Single, that is never married",Temporarily unemployed,25, ,Less than high school graduate,"Less than $15,000",Don't know,Female,Mushrooms
+2.2272,CA,A,West,Pacific,Rented,Married,Part-time,48, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Sausage
+1.2792,CA,A,West,Pacific,Owned,Married,Full-time,50, ,Graduated college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.4011,CA,D,West,Pacific,Rented,Separated,Part-time,68, ,Less than high school graduate,"$25,000 but less than $30,000",Somewhat liberal,Female,Pepperoni
+0.4885,OR,B,West,Pacific,Rented,Divorced,Retired,72, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+0.7494,CA,A,West,Pacific,Rented,Married,Retired,68, ,Graduated college,"$250,000 or more",Somewhat liberal,Female,Mushrooms
+1.0201,NV,B,West,Mountain,Rented,Married,Part-time,23, ,Some college,"$15,000 but less than $25,000",Very conservative,Male,Pepperoni
+1.3651,AK,D,West,Pacific,Owned,Married,Homemaker,62, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.58,AK,C,West,Pacific,Rented,"Single, living with a partner",Full-time,22, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Pepperoni
+2.3313,WA,A,West,Pacific,Rented,"Single, that is never married",Part-time,20, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+2.1278,AK,C,West,Pacific,Rented,"Single, living with a partner",Full-time,26, ,High school graduate,Refused,Moderate,Female,Mushrooms
+0.7665,OR,B,West,Pacific,Owned,Married,Full-time,67, ,Graduated college,"$40,000 but less than $50,000",Very liberal,Male,Don't know/no answer
+1.2077,CA,A,West,Pacific,Rented,"Single, that is never married",Student,22, ,Graduated college,"Less than $15,000",Moderate,Male,Onions
+2.2209,WA,B,West,Pacific,Owned,Married,Retired,60, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Female,Sausage
+0.3238,WA,C,West,Pacific,Owned,Widowed,Retired,85, ,Graduated college,"$40,000 but less than $50,000",Very conservative,Female,Sausage
+0.7715,CA,A,West,Pacific,Owned,"Single, that is never married",Full-time,24, ,Graduated college,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+0.5784,CA,B,West,Pacific,Owned,Divorced,Full-time,62, ,Some college,"$100,000 to under $150,000",Moderate,Female,Mushrooms
+2.0003,ID,C,West,Mountain,Owned,Married,Full-time,25, ,Some college,"$30,000 but less than $40,000",Moderate,Male,Sausage
+2.0648,HI,B,West,Pacific,Owned,Married,Full-time,57, ,Less than high school graduate,"$50,000 but less than $75,000",Somewhat liberal,Female,Mushrooms
+1.0147,PA,C,North East,Mid Atlantic,Don't know,"Single, that is never married",Full-time,23, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Male,Sausage
+0.8437,MN,D,North Central,West North Central,Owned,Divorced,Full-time,59, ,High school graduate,Don't know,Moderate,Male,Sausage
+0.6462,IN,D,North Central,East North Central,Owned,Married,Retired,70, ,Graduated college,"Less than $50,000 (Unspecified)",Somewhat conservative,Male,Sausage
+0.25,OH,C,North Central,East North Central,Owned,Widowed,Retired,74, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Female,Sausage
+0.8386,OH,B,North Central,East North Central,Rented,Widowed,Full-time,57, ,High school graduate,"$25,000 but less than $30,000",Very liberal,Female,Pepperoni
+0.6529,PA,A,North East,Mid Atlantic,Owned,"Single, that is never married",Student,20, ,High school graduate,"$100,000 to under $150,000",Moderate,Female,Pepperoni
+0.5227,MN,D,North Central,West North Central,Owned,Married,Full-time,50, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.8872,OH,B,North Central,East North Central,Rented,"Single, that is never married",Part-time,33, ,Some college,"$40,000 but less than $50,000",Somewhat conservative,Female,Pepperoni
+1.892,NC,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,29, ,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+1.056,NY,B,North East,Mid Atlantic,Rented,Married,Disabled/Handicapped,40, ,Some college,"$15,000 but less than $25,000",Moderate,Male,Sausage
+0.4765,MD,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,25, ,High school graduate,Don't know,Somewhat conservative,Female,Pepperoni
+2.5121,CA,B,West,Pacific,Rented,Separated,Full-time,38, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Female,Pepperoni
+0.3252,GA,D,South,South Atlantic,Owned,Divorced,Part-time,69, ,Graduated college,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+1.1902,FL,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,23, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Don't know/no answer
+3.3112,MI,B,North Central,East North Central,Owned,Married,Part-time,37, ,High school graduate,"Less than $15,000",Somewhat liberal,Female,Pepperoni
+1.4666,PA,B,North East,Mid Atlantic,Owned,"Single, that is never married",Part-time,25, ,Less than high school graduate,Refused,Very liberal,Male,Sausage
+1.9256,CA,A,West,Pacific,Rented,"Single, living with a partner",Part-time,49, ,Less than high school graduate,"Less than $15,000",Very liberal,Female,Mushrooms
+1.1674,VA,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,23, ,Technical school/other,"$30,000 but less than $40,000",Very liberal,Male,Don't eat pizza
+1.0499,VA,B,South,South Atlantic,Owned,Married,Full-time,38, ,High school graduate,"$50,000 but less than $75,000",Moderate,Male,Sausage
+0.6654,MA,A,North East,New England,Rented,"Single, that is never married",Retired,47, ,Less than high school graduate,"$50,000 but less than $100,000 (Unspecified)",Very conservative,Male,Pepperoni
+0.8976,VA,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,24, ,Graduate school or more,"$50,000 but less than $75,000",Very liberal,Male,Pepperoni
+1.4127,CA,A,West,Pacific,Rented,Married,Part-time,41, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+1.041,IN,C,North Central,East North Central,Owned,"Single, living with a partner",Full-time,52, ,Graduated college,"$100,000 to under $150,000",Very conservative,Female,Mushrooms
+1.2029,OH,D,North Central,East North Central,Owned,Divorced,Retired,61, ,Some college,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+3.0601,FL,B,South,South Atlantic,Rented,Married,Full-time,45, ,Less than high school graduate,Refused,Refused,Male,Pepperoni
+0.4503,MI,A,North Central,East North Central,Owned,"Single, that is never married",Retired,65, ,Graduate school or more,"$30,000 but less than $40,000",Somewhat liberal,Female,Pepperoni
+1.2025,OH,A,North Central,East North Central,Rented,"Single, living with a partner",Temporarily unemployed,19, ,High school graduate,"Less than $15,000",Somewhat conservative,Male,Pepperoni
+2.4336,FL,B,South,South Atlantic,Owned,Married,Full-time,42, ,Some college,"$200,000 to under $250,000",Moderate,Male,Pepperoni
+1.8753,MA,A,North East,New England,Owned,Married,Full-time,50, ,High school graduate,Refused,Moderate,Male,Mushrooms
+0.4272,MI,B,North Central,East North Central,Rented,"Single, that is never married",Full-time,33, ,Graduated college,"Less than $15,000",Very liberal,Male,Pepperoni
+1.0196,FL,B,South,South Atlantic,Rented,Divorced,Full-time,30, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.25,PA,B,North East,Mid Atlantic,Owned,Widowed,Retired,76, ,High school graduate,Refused,Moderate,Female,Pepperoni
+1.8552,CA,A,West,Pacific,Rented,"Single, living with a partner",Student,Refused,18-29,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+1.4602,VA,A,South,South Atlantic,Rented,"Single, that is never married",Full-time,26, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+0.3495,MD,C,South,South Atlantic,Rented,Widowed,Temporarily unemployed,68, ,Less than high school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+2.7501,DE,C,South,South Atlantic,Rented,"Single, that is never married",Student,43, ,Less than high school graduate,"$40,000 but less than $50,000",Moderate,Female,Pepperoni
+1.1195,IN,A,North Central,East North Central,Rented,"Single, that is never married",Part-time,18, ,High school graduate,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+0.4803,SC,B,South,South Atlantic,Owned,"Single, that is never married",Temporarily unemployed,21, ,Less than high school graduate,"Less than $15,000",Don't know,Male,Sausage
+0.3552,IN,B,North Central,East North Central,Owned,"Single, living with a partner",Retired,55, ,Graduate school or more,"$50,000 but less than $75,000",Very liberal,Male,Sausage
+2.8016,FL,A,South,South Atlantic,Owned,Married,Homemaker,44, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Sausage
+0.7765,WV,D,South,South Atlantic,Owned,"Single, living with a partner",Homemaker,27, ,Less than high school graduate,"Less than $15,000",Somewhat conservative,Female,Pepperoni
+1.9374,FL,B,South,South Atlantic,Owned,"Single, that is never married",Student,20, ,Some college,"Less than $50,000 (Unspecified)",Moderate,Female,Pepperoni
+1.2605,NC,C,South,South Atlantic,Owned,Married,Retired,65, ,Graduate school or more,"$40,000 but less than $50,000",Somewhat liberal,Female,Mushrooms
+0.5227,FL,D,South,South Atlantic,Owned,Married,Retired,71, ,High school graduate,Refused,Moderate,Male,Sausage
+0.9407,OH,D,North Central,East North Central,Owned,Married,Full-time,34, ,Graduated college,"$100,000 to under $150,000",Somewhat conservative,Female,Pepperoni
+1.6406,PA,B,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,23, ,Graduated college,"$200,000 to under $250,000",Moderate,Female,Sausage
+1.0668,OH,B,North Central,East North Central,Owned,Married,Full-time,45, ,Graduated college,"$75,000 but less than $100,000",Very conservative,Male,Pepperoni
+0.3418,MD,A,South,South Atlantic,Owned,Divorced,Full-time,58, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Male,Sausage
+0.5619,NY,B,North East,Mid Atlantic,Owned,"Single, that is never married",Part-time,26, ,Graduated college,Don't know,Very liberal,Male,Mushrooms
+0.7594,OH,D,North Central,East North Central,Owned,"Single, that is never married",Full-time,21, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Male,Mushrooms
+2.4312,DC,A,South,South Atlantic,Rented,Divorced,Full-time,44, ,Some college,"$50,000 but less than $75,000",Somewhat liberal,Female,Pepperoni
+1.6182,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,43, ,Graduate school or more,"$100,000 and over (Unspecified)",Somewhat conservative,Male,Mushrooms
+0.594,FL,A,South,South Atlantic,Owned,Widowed,Retired,90, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+1.3184,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Part-time,21, ,Some college,"$30,000 but less than $40,000",Somewhat liberal,Female,Pepperoni
+2.0486,GA,A,South,South Atlantic,Owned,Married,Full-time,55, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+1.1878,WV,A,South,South Atlantic,Rented,"Single, that is never married",Retired,71, ,Less than high school graduate,"Less than $15,000",Don't know,Male,Pepperoni
+1.23,AL,B,South,East South Central,Refused,Refused,Temporarily unemployed,57, ,Less than high school graduate,"Less than $15,000",Moderate,Female,Sausage
+0.476,MN,D,North Central,West North Central,Rented,Widowed,Temporarily unemployed,60, ,Some college,"Less than $15,000",Refused,Female,Pepperoni
+0.6215,IL,D,North Central,East North Central,Owned,Separated,Part-time,48, ,High school graduate,"Less than $15,000",Moderate,Female,Onions
+1.2186,IA,D,North Central,West North Central,Rented,Widowed,Disabled/Handicapped,50, ,High school graduate,"Less than $15,000",Moderate,Female,Onions
+1.1289,NH,C,North East,New England,Owned,Married,Full-time,37, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Pepperoni
+0.5652,MN,D,North Central,West North Central,Owned,Divorced,Full-time,54, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.3743,TX,B,South,West South Central,Rented,Widowed,Retired,79, ,Graduate school or more,"$150,000 to under $200,000",Moderate,Male,Sausage
+0.8437,WI,D,North Central,East North Central,Owned,"Single, living with a partner",Full-time,55, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+0.8833,TX,A,South,West South Central,Rented,Married,Full-time,27, ,Graduate school or more,Refused,Refused,Male,Pepperoni
+0.5036,MN,A,North Central,West North Central,Rented,"Single, that is never married",Full-time,24, ,Graduated college,Don't know,Somewhat liberal,Male,Pepperoni
+0.7988,KS,B,North Central,West North Central,Owned,"Single, living with a partner",Retired,78, ,High school graduate,"$15,000 but less than $25,000",Don't know,Female,Pepperoni
+0.861,MS,D,South,East South Central,Owned,Widowed,Disabled/Handicapped,60, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+0.7011,ND,D,North Central,West North Central,Owned,"Single, that is never married",Student,19, ,High school graduate,Don't know,Moderate,Male,Don't eat pizza
+0.4227,WI,C,North Central,East North Central,Rented,Married,Retired,71, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+0.3695,KS,B,North Central,West North Central,Owned,"Single, living with a partner",Full-time,60, ,High school graduate,"$25,000 but less than $30,000",Somewhat liberal,Male,Pepperoni
+1.4602,AL,B,South,East South Central,Rented,"Single, that is never married",Part-time,Refused,18-29,Less than high school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Pepperoni
+1.6556,IA,B,North Central,West North Central,Owned,Married,Full-time,40, ,High school graduate,"$40,000 but less than $50,000",Somewhat conservative,Female,Sausage
+0.3678,TN,B,South,East South Central,Owned,Married,Temporarily unemployed,65, ,Graduated college,"Less than $15,000",Somewhat liberal,Male,Sausage
+0.8407,AZ,A,West,Mountain,Owned,"Single, that is never married",Full-time,18, ,High school graduate,"$75,000 but less than $100,000",Very liberal,Male,Don't know/no answer
+0.2907,WI,A,North Central,East North Central,Rented,Divorced,Retired,70, ,Graduate school or more,"$30,000 but less than $40,000",Very liberal,Male,Mushrooms
+2.691,AZ,A,West,Mountain,Rented,Married,Part-time,43, ,Some college,"$50,000 but less than $75,000",Don't know,Male,Pepperoni
+0.9308,TX,B,South,West South Central,Owned,Widowed,Retired,80, ,Some college,"Less than $15,000",Moderate,Female,Pepperoni
+0.6241,CO,B,West,Mountain,Owned,Divorced,Full-time,Refused,50-64,Graduated college,Refused,Very conservative,Female,Pepperoni
+0.5818,CO,D,West,Mountain,Rented,Separated,Full-time,28, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+0.4057,AZ,A,West,Mountain,Owned,Widowed,Retired,89, ,Graduate school or more,"$50,000 but less than $75,000",Very conservative,Male,Sausage
+0.8841,AZ,A,West,Mountain,Rented,Widowed,Disabled/Handicapped,52, ,Some college,"Less than $15,000",Very conservative,Male,Pepperoni
+3.5434,CA,A,West,Pacific,Rented,Married,Student,27, ,Some college,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+0.6784,OK,B,South,West South Central,Owned,Divorced,Full-time,49, ,Graduated college,"$75,000 but less than $100,000",Moderate,Male,Mushrooms
+2.691,CA,A,West,Pacific,Rented,Married,Full-time,30, ,Some college,"$100,000 to under $150,000",Very liberal,Male,Pepperoni
+1.0643,AZ,B,West,Mountain,Owned,Married,Part-time,54, ,Graduated college,"$100,000 to under $150,000",Moderate,Female,Pepperoni
+1.7731,CA,B,West,Pacific,Owned,"Single, that is never married",Full-time,55, ,Some college,"$25,000 but less than $30,000",Moderate,Male,Sausage
+1.1346,AZ,C,West,Mountain,Rented,Divorced,Full-time,34, ,High school graduate,"$100,000 to under $150,000",Somewhat liberal,Male,Pepperoni
+2.2209,AZ,B,West,Mountain,Owned,Married,Full-time,62, ,Some college,"$100,000 to under $150,000",Very conservative,Female,Sausage
+1.0201,ID,D,West,Mountain,Rented,"Single, living with a partner",Homemaker,33, ,Less than high school graduate,"$40,000 but less than $50,000",Very liberal,Female,Mushrooms
+0.7194,AZ,A,West,Mountain,Owned,"Single, that is never married",Full-time,22, ,Some college,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+0.696,WA,D,West,Pacific,Owned,"Single, living with a partner",Homemaker,41, ,High school graduate,"$25,000 but less than $30,000",Somewhat conservative,Female,Pepperoni
+1.3233,AL,B,South,East South Central,Owned,Married,Full-time,30, ,Graduated college,Refused,Moderate,Male,Pepperoni
+0.8253,WA,A,West,Pacific,Owned,Divorced,Full-time,60, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Female,Sausage
+1.0544,CA,B,West,Pacific,Rented,Refused,Part-time,Refused,18-29,Some college,"$50,000 but less than $75,000",Very liberal,Male,Pepperoni
+1.7408,CA,A,West,Pacific,Rented,Married,Temporarily unemployed,31, ,Graduated college,Don't know,Refused,Male,Mushrooms
+2.0265,AK,C,West,Pacific,Rented,Married,Full-time,25, ,High school graduate,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.8214,CA,B,West,Pacific,Rented,Married,Retired,73, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+2.1422,WA,C,West,Pacific,Rented,"Single, that is never married",Student,28, ,Some college,"Less than $15,000",Somewhat conservative,Female,Pepperoni
+2.1422,NV,B,West,Mountain,Rented,"Single, that is never married",Part-time,21, ,Some college,"$150,000 to under $200,000",Very conservative,Female,Pepperoni
+1.8034,CA,A,West,Pacific,Owned,"Single, living with a partner",Full-time,53, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+1.7455,CA,A,West,Pacific,Rented,Divorced,Disabled/Handicapped,28, ,Less than high school graduate,"Less than $15,000",Very conservative,Male,Pepperoni
+1.8034,CA,B,West,Pacific,Owned,Separated,Retired,64, ,Technical school/other,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+1.9055,OR,B,West,Pacific,Owned,Married,Full-time,46, ,Some college,"$40,000 but less than $50,000",Very conservative,Male,Pepperoni
+1.8971,AK,C,West,Pacific,Owned,Married,Full-time,34, ,High school graduate,Refused,Moderate,Male,Don't eat pizza
+3.2341,AK,C,West,Pacific,Rented,Married,Full-time,27, ,Some college,Refused,Somewhat conservative,Female,Mushrooms
+1.3479,ID,D,West,Mountain,Rented,Married,Disabled/Handicapped,54, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+1.7026,MN,A,North Central,West North Central,Owned,"Single, living with a partner",Full-time,33, ,Graduated college,"$75,000 but less than $100,000",Very liberal,Male,Sausage
+0.6465,CA,A,West,Pacific,Owned,"Single, that is never married",Full-time,27, ,Less than high school graduate,"$50,000 but less than $75,000",Somewhat conservative,Male,Pepperoni
+0.6297,PA,A,North East,Mid Atlantic,Owned,Married,Part-time,68, ,Graduated college,Refused,Very conservative,Female,Pepperoni
+0.6167,MA,A,North East,New England,Owned,Divorced,Retired,60, ,Graduate school or more,Refused,Moderate,Male,Sausage
+1.892,TN,B,South,East South Central,Owned,"Single, that is never married",Full-time,24, ,High school graduate,"Less than $15,000",Very liberal,Female,Pepperoni
+0.7402,NC,B,South,South Atlantic,Rented,Married,Full-time,Refused,50-64,Graduate school or more,"$200,000 to under $250,000",Moderate,Male,Onions
+1.0377,TX,C,South,West South Central,Owned,"Single, that is never married",Temporarily unemployed,19, ,High school graduate,"Less than $50,000 (Unspecified)",Moderate,Male,Mushrooms
+0.5245,MA,B,North East,New England,Owned,"Single, living with a partner",Retired,78, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Don't know/no answer
+0.8521,LA,C,South,West South Central,Owned,Married,Retired,60, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+1.3278,MA,A,North East,New England,Owned,Separated,Full-time,50, ,Some college,"$40,000 but less than $50,000",Moderate,Female,Mushrooms
+2.6217,IL,A,North Central,East North Central,Rented,Married,Full-time,31, ,Graduated college,"$30,000 but less than $40,000",Somewhat liberal,Male,Pepperoni
+0.6522,TN,B,South,East South Central,Owned,Divorced,Part-time,57, ,Some college,"$25,000 but less than $30,000",Moderate,Female,Onions
+1.8427,PA,A,North East,Mid Atlantic,Rented,"Single, living with a partner",Full-time,33, ,Graduated college,"$100,000 to under $150,000",Somewhat liberal,Male,Pepperoni
+1.1669,OH,C,North Central,East North Central,Owned,Married,Retired,75, ,Graduated college,"$40,000 but less than $50,000",Somewhat conservative,Male,Sausage
+1.1068,GA,A,South,South Atlantic,Rented,Divorced,Part-time,52, ,Graduated college,"Less than $15,000",Moderate,Female,Pepperoni
+2.1069,FL,C,South,South Atlantic,Owned,Married,Full-time,61, ,Graduate school or more,"$75,000 but less than $100,000",Somewhat liberal,Female,Mushrooms
+1.187,IL,A,North Central,East North Central,Rented,"Single, that is never married",Part-time,18, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Male,Pepperoni
+1.6121,NY,C,North East,Mid Atlantic,Rented,Married,Full-time,34, ,Graduated college,"$100,000 and over (Unspecified)",Don't know,Female,Mushrooms
+0.436,FL,B,South,South Atlantic,Rented,Divorced,Retired,76, ,Technical school/other,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+0.8516,NY,B,North East,Mid Atlantic,Owned,Married,Retired,71, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+1.4207,PA,A,North East,Mid Atlantic,Rented,"Single, that is never married",Temporarily unemployed,48, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+0.3025,PA,A,North East,Mid Atlantic,Owned,Divorced,Other not employed,51, ,High school graduate,"$75,000 but less than $100,000",Somewhat liberal,Female,Sausage
+1.8315,KS,B,North Central,West North Central,Owned,"Single, that is never married",Full-time,41, ,Some college,Refused,Refused,Male,Mushrooms
+1.2765,CT,A,North East,New England,Owned,"Single, living with a partner",Full-time,23, ,Some college,"$25,000 but less than $30,000",Very conservative,Male,Don't eat pizza
+1.1725,PA,B,North East,Mid Atlantic,Rented,"Single, that is never married",Student,20, ,Some college,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+1.8327,VA,D,South,South Atlantic,Owned,Married,Full-time,28, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+0.7739,PA,B,North East,Mid Atlantic,Owned,"Single, that is never married",Part-time,21, ,High school graduate,Don't know,Somewhat conservative,Male,Sausage
+2.0121,TX,A,South,West South Central,Rented,"Single, that is never married",Full-time,40, ,High school graduate,"$50,000 but less than $75,000",Somewhat liberal,Male,Pepperoni
+1.9297,GA,C,South,South Atlantic,Rented,"Single, that is never married",Part-time,22, ,High school graduate,"Less than $15,000",Somewhat liberal,Female,Mushrooms
+0.4984,NH,C,North East,New England,Refused,Married,Full-time,57, ,High school graduate,"$250,000 or more",Very conservative,Male,Sausage
+1.09,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,21, ,Graduated college,"$25,000 but less than $30,000",Don't know,Male,Pepperoni
+0.7933,MA,A,North East,New England,Rented,"Single, that is never married",Retired,70, ,Graduated college,"Less than $15,000",Somewhat conservative,Female,Sausage
+0.3091,MI,A,North Central,East North Central,Rented,Divorced,Retired,62, ,Some college,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+2.336,SC,C,South,South Atlantic,Rented,"Single, that is never married",Part-time,18, ,Less than high school graduate,Don't know,Don't know,Female,Sausage
+0.8516,ME,C,North East,New England,Owned,Married,Full-time,71, ,High school graduate,"$100,000 to under $150,000",Moderate,Male,Mushrooms
+1.1171,WV,A,South,South Atlantic,Owned,Married,Part-time,67, ,Graduated college,"$25,000 but less than $30,000",Very conservative,Female,Onions
+1.9446,MA,A,North East,New England,Rented,"Single, that is never married",Retired,56, ,Less than high school graduate,"Less than $15,000",Very liberal,Male,Pepperoni
+0.6297,NY,A,North East,Mid Atlantic,Owned,Married,Part-time,75, ,Graduated college,"$100,000 to under $150,000",Moderate,Female,Don't eat pizza
+0.6969,NJ,A,North East,Mid Atlantic,Rented,Separated,Part-time,26, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Mushrooms
+3.1007,CT,B,North East,New England,Rented,Married,Full-time,38, ,High school graduate,"$15,000 but less than $25,000",Somewhat liberal,Male,Mushrooms
+1.4939,OH,C,North Central,East North Central,Owned,Divorced,Full-time,50, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Pepperoni
+2.1909,MO,B,North Central,West North Central,Rented,"Single, living with a partner",Full-time,24, ,Less than high school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+3.2046,WI,C,North Central,East North Central,Owned,Married,Full-time,42, ,Some college,Refused,Moderate,Female,Pepperoni
+0.25,OH,B,North Central,East North Central,Rented,Divorced,Retired,65, ,High school graduate,"Less than $15,000",Don't know,Female,Mushrooms
+0.3652,IL,C,North Central,East North Central,Owned,Widowed,Retired,80, ,High school graduate,Refused,Somewhat conservative,Male,Sausage
+1.5479,GA,A,South,South Atlantic,Owned,Married,Full-time,Refused,30-49,Graduated college,"$200,000 to under $250,000",Somewhat conservative,Male,Don't eat pizza
+0.3286,WI,B,North Central,East North Central,Owned,Widowed,Part-time,83, ,Graduated college,"$40,000 but less than $50,000",Refused,Male,Sausage
+0.7715,MI,D,North Central,East North Central,Owned,Married,Retired,67, ,High school graduate,Refused,Moderate,Male,Pepperoni
+0.6621,WI,C,North Central,East North Central,Owned,Married,Full-time,45, ,High school graduate,"$75,000 but less than $100,000",Somewhat liberal,Female,Onions
+0.9229,OH,C,North Central,East North Central,Owned,Divorced,Retired,69, ,High school graduate,"Less than $15,000",Don't know,Male,Pepperoni
+0.9045,GA,D,South,South Atlantic,Rented,Married,Full-time,27, ,Some college,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+1.6043,OK,C,South,West South Central,Owned,Married,Homemaker,77, ,Less than high school graduate,Refused,Very conservative,Female,Pepperoni
+0.5612,LA,B,South,West South Central,Rented,Married,Retired,73, ,Some college,"Less than $50,000 (Unspecified)",Moderate,Female,Pepperoni
+0.8976,MS,D,South,East South Central,Owned,Divorced,Part-time,46, ,Some college,Refused,Very liberal,Female,Pepperoni
+0.4118,FL,D,South,South Atlantic,Rented,"Single, that is never married",Student,18, ,High school graduate,Don't know,Moderate,Male,Pepperoni
+2.1084,TX,B,South,West South Central,Owned,"Single, living with a partner",Temporarily unemployed,22, ,High school graduate,"Less than $15,000",Moderate,Female,Mushrooms
+0.9119,FL,B,South,South Atlantic,Rented,Married,Retired,66, ,Less than high school graduate,"$150,000 to under $200,000",Somewhat conservative,Female,Pepperoni
+0.8876,MO,B,North Central,West North Central,Owned,Married,Homemaker,60, ,Graduated college,"$100,000 and over (Unspecified)",Very conservative,Female,Onions
+1.6117,SC,B,South,South Atlantic,Rented,"Single, that is never married",Full-time,28, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Female,Mushrooms
+0.9812,TX,D,South,West South Central,Owned,Divorced,Retired,80, ,High school graduate,"Less than $15,000",Somewhat liberal,Male,Don't know/no answer
+0.8511,TX,B,South,West South Central,Owned,Divorced,Retired,77, ,Less than high school graduate,Don't know,Somewhat conservative,Female,Pepperoni
+2.2864,TN,D,South,East South Central,Rented,Divorced,Disabled/Handicapped,42, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Sausage
+1.8427,NY,A,North East,Mid Atlantic,Rented,"Single, that is never married",Part-time,32, ,Graduated college,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+0.8669,CT,A,North East,New England,Rented,Divorced,Retired,82, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Mushrooms
+1.2538,TX,A,South,West South Central,Owned,"Single, that is never married",Student,19, ,High school graduate,Don't know,Very liberal,Female,Mushrooms
+0.8055,AL,D,South,East South Central,Owned,Married,Retired,59, ,Some college,"$50,000 but less than $75,000",Somewhat liberal,Female,Pepperoni
+0.9355,TX,C,South,West South Central,Owned,Married,Student,40, ,Some college,"$100,000 to under $150,000",Moderate,Male,Pepperoni
+0.25,CT,B,North East,New England,Rented,"Single, that is never married",Retired,76, ,High school graduate,Don't know,Very liberal,Female,Sausage
+1.3215,LA,D,South,West South Central,Owned,Divorced,Full-time,63, ,High school graduate,"$50,000 but less than $75,000",Somewhat liberal,Female,Pepperoni
+2.8049,TX,A,South,West South Central,Owned,"Single, living with a partner",Full-time,36, ,Less than high school graduate,"$30,000 but less than $40,000",Very liberal,Female,Pepperoni
+0.3273,LA,B,South,West South Central,Rented,Widowed,Full-time,60, ,High school graduate,"$25,000 but less than $30,000",Very liberal,Female,Sausage
+1.599,AL,D,South,East South Central,Owned,Divorced,Full-time,50, ,Some college,"$15,000 but less than $25,000",Very conservative,Male,Pepperoni
+1.6245,TX,A,South,West South Central,Rented,Separated,Full-time,53, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Sausage
+0.9969,LA,B,South,West South Central,Rented,"Single, that is never married",Full-time,24, ,Graduated college,"$40,000 but less than $50,000",Very liberal,Male,Onions
+1.1902,AL,D,South,East South Central,Rented,"Single, that is never married",Full-time,21, ,High school graduate,"$15,000 but less than $25,000",Somewhat liberal,Male,Sausage
+1.1344,MD,A,South,South Atlantic,Owned,Married,Temporarily unemployed,53, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Female,Pepperoni
+0.5221,KY,D,South,East South Central,Owned,Married,Homemaker,55, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Sausage
+1.3478,TX,A,South,West South Central,Owned,Widowed,Full-time,Refused,50-64,High school graduate,Refused,Very liberal,Female,Don't know/no answer
+0.3033,ND,D,North Central,West North Central,Owned,Widowed,Retired,87, ,Less than high school graduate,"$30,000 but less than $40,000",Very conservative,Male,Mushrooms
+0.8681,GA,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,28, ,Graduated college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.527,NJ,A,North East,Mid Atlantic,Rented,"Single, living with a partner",Full-time,29, ,Technical school/other,"$30,000 but less than $40,000",Very liberal,Male,Mushrooms
+0.5342,FL,C,South,South Atlantic,Owned,Divorced,Part-time,70, ,High school graduate,"$40,000 but less than $50,000",Very conservative,Male,Pepperoni
+2.0768,WV,C,South,South Atlantic,Owned,Married,Full-time,35, ,Less than high school graduate,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+1.2761,MN,C,North Central,West North Central,Rented,Divorced,Disabled/Handicapped,51, ,Graduated college,"Less than $15,000",Very liberal,Male,Pepperoni
+0.9491,VA,B,South,South Atlantic,Rented,Widowed,Retired,85, ,High school graduate,"$15,000 but less than $25,000",Very conservative,Female,Pepperoni
+0.9813,TN,B,South,East South Central,Owned,Married,Full-time,66, ,Some college,"$50,000 but less than $100,000 (Unspecified)",Refused,Female,Sausage
+0.6783,GA,A,South,South Atlantic,Owned,Married,Part-time,51, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Female,Pepperoni
+2.4944,OK,C,South,West South Central,Owned,Married,Full-time,53, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Sausage
+0.4824,GA,D,South,South Atlantic,Owned,Separated,Disabled/Handicapped,67, ,High school graduate,Don't know,Somewhat conservative,Male,Pepperoni
+1.9748,FL,D,South,South Atlantic,Owned,Married,Full-time,Refused,50-64,Some college,"$30,000 but less than $40,000",Somewhat liberal,Female,Sausage
+2.2928,NC,D,South,South Atlantic,Rented,"Single, that is never married",Part-time,30, ,High school graduate,Don't know,Don't know,Female,Sausage
+1.3233,KY,B,South,East South Central,Rented,Married,Student,30, ,Graduated college,"$25,000 but less than $30,000",Somewhat liberal,Male,Pepperoni
+0.6574,TX,A,South,West South Central,Owned,"Single, that is never married",Full-time,45, ,High school graduate,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+1.3635,OK,B,South,West South Central,Owned,Married,Full-time,54, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Sausage
+1.4341,PA,B,North East,Mid Atlantic,Owned,Married,Full-time,34, ,Graduated college,"$150,000 to under $200,000",Somewhat conservative,Male,Pepperoni
+3.0668,MD,A,South,South Atlantic,Rented,Married,Student,30, ,Some college,"$100,000 to under $150,000",Moderate,Male,Onions
+1.8792,FL,A,South,South Atlantic,Owned,Married,Part-time,36, ,Graduate school or more,"$75,000 but less than $100,000",Moderate,Female,Mushrooms
+1.2022,TX,A,South,West South Central,Owned,Married,Full-time,64, ,Graduate school or more,"$250,000 or more",Somewhat conservative,Male,Pepperoni
+1.1749,TX,A,South,West South Central,Owned,Divorced,Full-time,21, ,Some college,"$100,000 to under $150,000",Very liberal,Male,Pepperoni
+1.1888,TX,C,South,West South Central,Owned,Married,Full-time,50, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Mushrooms
+0.923,IL,A,North Central,East North Central,Owned,Married,Temporarily unemployed,50, ,Some college,"$75,000 but less than $100,000",Somewhat liberal,Male,Sausage
+0.9472,TX,B,South,West South Central,Owned,"Single, that is never married",Full-time,22, ,High school graduate,"Less than $15,000",Somewhat conservative,Male,Pepperoni
+1.9243,TN,B,South,East South Central,Rented,"Single, living with a partner",Homemaker,27, ,High school graduate,"$15,000 but less than $25,000",Don't know,Female,Sausage
+0.3707,MD,A,South,South Atlantic,Owned,Separated,Retired,66, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.9878,FL,B,South,South Atlantic,Owned,Divorced,Retired,76, ,Some college,"$30,000 but less than $40,000",Somewhat liberal,Male,Pepperoni
+3.0131,FL,A,South,South Atlantic,Rented,"Single, that is never married",Full-time,32, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat liberal,Female,Pepperoni
+2.1395,GA,A,South,South Atlantic,Owned,"Single, that is never married",Part-time,37, ,Technical school/other,"$15,000 but less than $25,000",Don't know,Male,Don't eat pizza
+1.304,GA,C,South,South Atlantic,Rented,"Single, that is never married",Full-time,21, ,High school graduate,"$15,000 but less than $25,000",Very liberal,Male,Pepperoni
+1.0649,WV,C,South,South Atlantic,Owned,Married,Full-time,55, ,Graduate school or more,"$100,000 to under $150,000",Somewhat conservative,Female,Pepperoni
+0.9878,TX,A,South,West South Central,Rented,Divorced,Full-time,68, ,Some college,"$100,000 and over (Unspecified)",Very conservative,Male,Pepperoni
+1.4909,NY,C,North East,Mid Atlantic,Owned,Married,Full-time,58, ,Some college,"$100,000 to under $150,000",Somewhat conservative,Male,Mushrooms
+3.0797,FL,A,South,South Atlantic,Rented,Married,Full-time,54, ,Less than high school graduate,"$25,000 but less than $30,000",Moderate,Male,Mushrooms
+1.304,DC,A,South,South Atlantic,Rented,"Single, that is never married",Student,18, ,High school graduate,"Less than $15,000",Somewhat liberal,Male,Pepperoni
+0.7255,NC,B,South,South Atlantic,Owned,Widowed,Full-time,67, ,Graduated college,Refused,Somewhat conservative,Female,Mushrooms
+0.8719,OH,B,North Central,East North Central,Owned,Married,Full-time,46, ,High school graduate,"$50,000 but less than $75,000",Moderate,Male,Pepperoni
+1.599,TX,D,South,West South Central,Owned,Divorced,Part-time,64, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Male,Mushrooms
+1.2831,TX,A,South,West South Central,Owned,Married,Retired,63, ,Some college,"$30,000 but less than $40,000",Somewhat liberal,Female,Pepperoni
+0.9349,MS,B,South,East South Central,Rented,"Single, that is never married",Full-time,23, ,Some college,Refused,Moderate,Male,Mushrooms
+1.5572,PA,B,North East,Mid Atlantic,Owned,"Single, that is never married",Part-time,38, ,Less than high school graduate,"Less than $15,000",Somewhat liberal,Male,Pepperoni
+0.6256,MS,C,South,East South Central,Rented,Divorced,Disabled/Handicapped,46, ,Some college,"$40,000 but less than $50,000",Somewhat liberal,Male,Pepperoni
+0.5324,FL,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,58, ,Graduate school or more,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.2928,FL,B,South,South Atlantic,Owned,Widowed,Retired,78, ,Graduated college,"Less than $50,000 (Unspecified)",Moderate,Female,Pepperoni
+1.1465,GA,A,South,South Atlantic,Rented,"Single, that is never married",Part-time,18, ,Less than high school graduate,"Less than $50,000 (Unspecified)",Somewhat conservative,Male,Sausage
+0.855,TN,B,South,East South Central,Owned,Divorced,Full-time,65, ,Some college,"$25,000 but less than $30,000",Somewhat liberal,Female,Pepperoni
+2.0522,TX,A,South,West South Central,Rented,"Single, that is never married",Full-time,44, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Sausage
+0.6664,MD,A,South,South Atlantic,Owned,Married,Retired,69, ,Graduated college,"$150,000 to under $200,000",Very liberal,Female,Pepperoni
+1.7485,NJ,A,North East,Mid Atlantic,Owned,Separated,Part-time,50, ,Some college,"$100,000 to under $150,000",Moderate,Male,Onions
+0.9444,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,36, ,Graduated college,"$150,000 to under $200,000",Moderate,Female,Pepperoni
+1.7741,FL,B,South,South Atlantic,Owned,Married,Retired,58, ,High school graduate,"$50,000 but less than $75,000",Don't know,Female,Mushrooms
+1.18,FL,B,South,South Atlantic,Owned,Married,Full-time,48, ,Graduated college,"$30,000 but less than $40,000",Somewhat conservative,Male,Mushrooms
+0.9376,MO,C,North Central,West North Central,Rented,"Single, that is never married",Full-time,29, ,Graduated college,"$100,000 to under $150,000",Somewhat conservative,Male,Pepperoni
+0.5309,GA,D,South,South Atlantic,Rented,"Single, living with a partner",Full-time,46, ,High school graduate,"$75,000 but less than $100,000",Very liberal,Male,Onions
+1.3864,GA,C,South,South Atlantic,Owned,Married,Retired,68, ,Graduated college,Refused,Somewhat conservative,Male,Pepperoni
+2.1919,GA,A,South,South Atlantic,Rented,Married,Full-time,53, ,High school graduate,"$15,000 but less than $25,000",Moderate,Female,Pepperoni
+1.2825,LA,B,South,West South Central,Owned,Widowed,Part-time,50, ,Technical school/other,"Less than $15,000",Moderate,Female,Pepperoni
+1.9243,LA,B,South,West South Central,Rented,"Single, living with a partner",Full-time,24, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.7587,FL,D,South,South Atlantic,Owned,Divorced,Retired,66, ,Less than high school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+1.0159,FL,B,South,South Atlantic,Owned,Married,Full-time,36, ,Graduate school or more,Refused,Refused,Male,Don't know/no answer
+0.7031,TX,A,South,West South Central,Rented,Divorced,Retired,Refused,65+,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+0.4729,TX,B,South,West South Central,Owned,"Single, living with a partner",Part-time,65, ,Graduate school or more,"$250,000 or more",Moderate,Male,Don't know/no answer
+0.7436,NC,B,South,South Atlantic,Owned,Married,Retired,69, ,Some college,Refused,Somewhat conservative,Female,Pepperoni
+1.2102,MA,A,North East,New England,Rented,"Single, that is never married",Full-time,55, ,Graduated college,"$15,000 but less than $25,000",Very liberal,Female,Mushrooms
+0.5585,SC,C,South,South Atlantic,Owned,Married,Part-time,72, ,Graduated college,"$50,000 but less than $100,000 (Unspecified)",Very conservative,Female,Sausage
+1.214,TX,A,South,West South Central,Rented,"Single, that is never married",Student,20, ,High school graduate,"Less than $15,000",Somewhat liberal,Male,Onions
+1.5291,TX,A,South,West South Central,Rented,Married,Full-time,31, ,Some college,"$75,000 but less than $100,000",Moderate,Male,Sausage
+0.3026,IA,D,North Central,West North Central,Owned,Married,Retired,72, ,High school graduate,"$30,000 but less than $40,000",Somewhat liberal,Male,Pepperoni
+1.0072,IN,A,North Central,East North Central,Rented,"Single, living with a partner",Full-time,24, ,Graduated college,"$100,000 and over (Unspecified)",Somewhat conservative,Male,Pepperoni
+1.9243,FL,B,South,South Atlantic,Rented,"Single, living with a partner",Full-time,23, ,High school graduate,Refused,Somewhat liberal,Female,Mushrooms
+1.9297,FL,B,South,South Atlantic,Rented,"Single, that is never married",Part-time,21, ,High school graduate,Don't know,Somewhat conservative,Female,Pepperoni
+0.5445,FL,B,South,South Atlantic,Rented,"Single, living with a partner",Full-time,46, ,Less than high school graduate,"Less than $15,000",Very conservative,Male,Pepperoni
+2.4727,AL,C,South,East South Central,Rented,Divorced,Full-time,38, ,Some college,"$25,000 but less than $30,000",Somewhat conservative,Female,Mushrooms
+1.1122,MS,B,South,East South Central,Owned,Married,Full-time,54, ,Some college,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+0.6063,FL,A,South,South Atlantic,Owned,Divorced,Disabled/Handicapped,62, ,Graduated college,"Less than $15,000",Somewhat liberal,Female,Pepperoni
+1.9374,FL,A,South,South Atlantic,Rented,"Single, living with a partner",Full-time,21, ,Some college,"$40,000 but less than $50,000",Very liberal,Female,Pepperoni
+0.6923,SC,B,South,South Atlantic,Rented,Married,Retired,49, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Male,Mushrooms
+0.25,FL,D,South,South Atlantic,Owned,Separated,Retired,85, ,Graduated college,"$75,000 but less than $100,000",Don't know,Male,Mushrooms
+2.4312,MD,A,South,South Atlantic,Rented,"Single, that is never married",Full-time,36, ,Some college,"$30,000 but less than $40,000",Somewhat conservative,Female,Don't know/no answer
+0.648,GA,A,South,South Atlantic,Rented,"Single, that is never married",Student,18, ,High school graduate,Don't know,Moderate,Male,Pepperoni
+0.3776,MS,B,South,East South Central,Owned,Divorced,Retired,69, ,High school graduate,"$15,000 but less than $25,000",Refused,Female,Pepperoni
+2.9486,SC,B,South,South Atlantic,Owned,Married,Full-time,44, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+0.9743,AR,D,South,West South Central,Owned,Married,Full-time,64, ,Some college,"$75,000 but less than $100,000",Somewhat conservative,Male,Sausage
+1.0834,IN,B,North Central,East North Central,Rented,"Single, that is never married",Full-time,21, ,Some college,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.9891,AL,B,South,East South Central,Rented,"Single, that is never married",Temporarily unemployed,37, ,High school graduate,"Less than $15,000",Moderate,Male,Sausage
+2.0001,FL,C,South,South Atlantic,Rented,"Single, that is never married",Retired,57, ,Less than high school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+0.7518,NY,B,North East,Mid Atlantic,Owned,Married,Retired,69, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+1.4124,FL,A,South,South Atlantic,Owned,"Single, that is never married",Full-time,55, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Pepperoni
+0.5911,IN,C,North Central,East North Central,Owned,Widowed,Retired,54, ,High school graduate,"$30,000 but less than $40,000",Moderate,Male,Sausage
+0.6636,MD,A,South,South Atlantic,Owned,"Single, that is never married",Student,19, ,Some college,"$250,000 or more",Moderate,Male,Sausage
+0.5598,VT,D,North East,New England,Owned,Married,Full-time,53, ,High school graduate,Don't know,Moderate,Female,Sausage
+0.5245,MA,A,North East,New England,Owned,Divorced,Part-time,70, ,High school graduate,"$25,000 but less than $30,000",Moderate,Female,Pepperoni
+0.8275,NY,B,North East,Mid Atlantic,Owned,"Single, that is never married",Part-time,21, ,Some college,"$50,000 but less than $75,000",Somewhat liberal,Male,Mushrooms
+1.9781,NY,A,North East,Mid Atlantic,Rented,Married,Full-time,27, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Mushrooms
+0.25,CA,A,West,Pacific,Owned,Divorced,Part-time,67, ,Graduated college,"$25,000 but less than $30,000",Moderate,Female,Mushrooms
+0.9949,NJ,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,22, ,Graduated college,"$50,000 but less than $75,000",Somewhat liberal,Male,Mushrooms
+0.9792,PA,A,North East,Mid Atlantic,Owned,Married,Homemaker,60, ,Some college,Refused,Very conservative,Female,Pepperoni
+2.2864,GA,C,South,South Atlantic,Owned,"Single, living with a partner",Full-time,36, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Sausage
+1.5715,MI,D,North Central,East North Central,Owned,Married,Part-time,51, ,Graduated college,Refused,Somewhat conservative,Female,Pepperoni
+0.8081,PA,A,North East,Mid Atlantic,Rented,"Single, that is never married",Part-time,29, ,Some college,"$15,000 but less than $25,000",Very liberal,Female,Pepperoni
+0.8561,NJ,A,North East,Mid Atlantic,Owned,Married,Retired,70, ,Some college,"$75,000 but less than $100,000",Very conservative,Female,Pepperoni
+0.6702,NJ,A,North East,Mid Atlantic,Owned,Divorced,Temporarily unemployed,51, ,Graduated college,"Less than $15,000",Very liberal,Female,Mushrooms
+1.2713,NJ,A,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,61, ,Graduate school or more,"$40,000 but less than $50,000",Somewhat liberal,Female,Mushrooms
+1.004,PA,B,North East,Mid Atlantic,Rented,"Single, that is never married",Full-time,39, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Male,Onions
+1.09,MA,A,North East,New England,Rented,"Single, that is never married",Part-time,23, ,Graduated college,"Less than $15,000",Very liberal,Male,Pepperoni
+0.9446,OH,B,North Central,East North Central,Rented,Divorced,Part-time,22, ,Some college,"$25,000 but less than $30,000",Somewhat liberal,Male,Mushrooms
+2.0812,MO,D,North Central,West North Central,Rented,Divorced,Full-time,32, ,Some college,"$15,000 but less than $25,000",Somewhat liberal,Female,Onions
+0.6105,MI,D,North Central,East North Central,Owned,"Single, that is never married",Full-time,30, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Pepperoni
+0.4822,NE,B,North Central,West North Central,Owned,Widowed,Full-time,52, ,High school graduate,"$30,000 but less than $40,000",Moderate,Female,Sausage
+0.9634,IN,C,North Central,East North Central,Rented,Married,Retired,53, ,Less than high school graduate,"Less than $15,000",Somewhat conservative,Male,Pepperoni
+1.4765,IL,D,North Central,East North Central,Owned,"Single, living with a partner",Full-time,35, ,High school graduate,"Less than $15,000",Very conservative,Male,Don't know/no answer
+0.4037,MN,A,North Central,West North Central,Owned,Married,Retired,73, ,Graduated college,"$40,000 but less than $50,000",Very conservative,Male,Sausage
+1.69,IN,B,North Central,East North Central,Rented,Married,Full-time,22, ,High school graduate,"$30,000 but less than $40,000",Moderate,Male,Pepperoni
+0.6573,WI,B,North Central,East North Central,Owned,"Single, living with a partner",Part-time,21, ,Some college,"Less than $15,000",Somewhat conservative,Male,Sausage
+1.1435,IL,D,North Central,East North Central,Owned,Married,Retired,63, ,High school graduate,Refused,Refused,Male,Mushrooms
+2.077,PA,A,North East,Mid Atlantic,Rented,"Single, that is never married",Part-time,20, ,Some college,"Less than $15,000",Moderate,Female,Sausage
+1.0976,IN,C,North Central,East North Central,Owned,Divorced,Full-time,29, ,High school graduate,"$75,000 but less than $100,000",Moderate,Male,Pepperoni
+2.1084,OH,D,North Central,East North Central,Rented,"Single, that is never married",Homemaker,40, ,High school graduate,Refused,Somewhat conservative,Female,Pepperoni
+2.1084,OH,D,North Central,East North Central,Rented,"Single, living with a partner",Homemaker,40, ,High school graduate,"$50,000 but less than $75,000",Moderate,Female,Sausage
+0.5459,OH,C,North Central,East North Central,Owned,Married,Full-time,52, ,Graduate school or more,"$75,000 but less than $100,000",Very conservative,Female,Pepperoni
+3.1537,NY,B,North East,Mid Atlantic,Owned,Married,Part-time,40, ,High school graduate,"$40,000 but less than $50,000",Moderate,Male,Pepperoni
+0.6934,IL,A,North Central,East North Central,Owned,Married,Full-time,69, ,Graduate school or more,"$15,000 but less than $25,000",Somewhat conservative,Female,Don't know/no answer
+1.8134,OH,A,North Central,East North Central,Rented,"Single, that is never married",Temporarily unemployed,53, ,Less than high school graduate,"Less than $15,000",Moderate,Male,Pepperoni
+0.4073,MI,A,North Central,East North Central,Rented,"Single, that is never married",Retired,58, ,High school graduate,"Less than $15,000",Somewhat liberal,Female,Sausage
+1.3044,LA,B,South,West South Central,Refused,Refused,Full-time,57, ,Some college,Refused,Moderate,Female,Sausage
+1.3866,NE,C,North Central,West North Central,Owned,Married,Full-time,42, ,Graduated college,"$150,000 to under $200,000",Somewhat liberal,Female,Mushrooms
+1.2573,KS,D,North Central,West North Central,Owned,Married,Full-time,46, ,Some college,"$50,000 but less than $75,000",Somewhat conservative,Male,Don't know/no answer
+1.4643,OH,C,North Central,East North Central,Owned,Married,Disabled/Handicapped,51, ,Some college,"$30,000 but less than $40,000",Moderate,Female,Pepperoni
+0.6643,OH,B,North Central,East North Central,Rented,Separated,Full-time,29, ,Less than high school graduate,"$15,000 but less than $25,000",Somewhat liberal,Male,Onions
+0.7188,OH,C,North Central,East North Central,Owned,Married,Full-time,38, ,High school graduate,"$50,000 but less than $75,000",Moderate,Male,Sausage
+0.5437,ND,C,North Central,West North Central,Owned,Married,Part-time,Refused,50-64,Graduated college,Refused,Very conservative,Female,Pepperoni
+1.0039,OH,B,North Central,East North Central,Owned,Married,Full-time,50, ,Graduated college,"$75,000 but less than $100,000",Somewhat conservative,Female,Pepperoni
+1.8517,OH,B,North Central,East North Central,Rented,Married,Full-time,19, ,High school graduate,"$15,000 but less than $25,000",Moderate,Male,Mushrooms
+1.3449,MN,D,North Central,West North Central,Rented,Married,Full-time,23, ,High school graduate,"$30,000 but less than $40,000",Somewhat conservative,Male,Mushrooms
+0.9376,IL,A,North Central,East North Central,Owned,"Single, that is never married",Full-time,24, ,Graduated college,"$15,000 but less than $25,000",Moderate,Male,Pepperoni
+1.09,MA,A,North East,New England,Rented,"Single, that is never married",Full-time,23, ,Graduated college,"$15,000 but less than $25,000",Somewhat liberal,Male,Don't know/no answer
+1.7745,SD,D,North Central,West North Central,Rented,"Single, living with a partner",Part-time,19, ,High school graduate,"$15,000 but less than $25,000",Somewhat conservative,Female,Pepperoni
+0.7988,IN,B,North Central,East North Central,Rented,Divorced,Retired,75, ,High school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+0.9048,ND,C,North Central,West North Central,Owned,Divorced,Full-time,70, ,High school graduate,"$50,000 but less than $75,000",Somewhat conservative,Male,Sausage
+0.9364,IN,B,North Central,East North Central,Rented,"Single, that is never married",Part-time,26, ,Less than high school graduate,"Less than $15,000",Moderate,Female,Pepperoni
+0.7869,WI,D,North Central,East North Central,Owned,Married,Retired,66, ,High school graduate,Refused,Somewhat conservative,Male,Sausage
+1.2186,IL,A,North Central,East North Central,Rented,Divorced,Disabled/Handicapped,61, ,High school graduate,Don't know,Moderate,Female,Pepperoni
+1.8315,MI,B,North Central,East North Central,Owned,"Single, that is never married",Full-time,43, ,Some college,"$40,000 but less than $50,000",Moderate,Male,Sausage
+1.5508,IN,B,North Central,East North Central,Rented,Married,Full-time,28, ,Graduated college,"$75,000 but less than $100,000",Somewhat liberal,Male,Sausage
+1.0016,OH,A,North Central,East North Central,Owned,Married,Full-time,52, ,Graduate school or more,"$100,000 to under $150,000",Moderate,Female,Mushrooms
+2.3929,MO,C,North Central,West North Central,Owned,Married,Full-time,33, ,Graduated college,"$75,000 but less than $100,000",Very conservative,Male,Onions
+0.458,IL,A,North Central,East North Central,Owned,"Single, living with a partner",Part-time,65, ,Graduate school or more,"$50,000 but less than $75,000",Moderate,Female,Mushrooms
+1.6497,IL,A,North Central,East North Central,Owned,Married,Part-time,41, ,Graduated college,"$100,000 to under $150,000",Somewhat liberal,Female,Pepperoni
+1.7342,NJ,A,North East,Mid Atlantic,Owned,Married,Full-time,57, ,Some college,"$75,000 but less than $100,000",Moderate,Male,Mushrooms
+1.4932,TX,A,South,West South Central,Owned,Married,Full-time,35, ,Graduate school or more,"$200,000 to under $250,000",Somewhat conservative,Male,Pepperoni
